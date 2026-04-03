@@ -4,12 +4,12 @@ declare(strict_types=1);
 
 return [
     // Relation ID of the OpenstreetMap City
-    'relationId' => 0,
+    'relationId' => 59874,
 
     // Languages in which you want to extract Wiki informations
-    'languages' => ['en'],
+    'languages' => ['en', 'fr'],
 
-    // Exclude datas from beeing extracted. Usefull to exclude streets at the edge of the city for example
+    // Exclude datas from beeing extracted. Useful to exclude streets at the edge of the city for example
     'exclude' => [
         'relation' => [],
         'way' => [
