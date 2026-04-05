@@ -1,0 +1,1625 @@
+name,source,gender,wikidata,type
+"Rue Pierre et Marie Curie",wikidata,+,Q37463;Q7186,relation
+"Allée Charles Coyac",wikidata,-,Q125849236,way
+"Allée Eugénie Grandet",wikidata,-,Q1373644;Q3060265,relation
+"Allée Mathias Sandorf",wikidata,-,Q645024,relation
+"Allée Willy Pelletier",wikidata,-,Q125926277,way
+"Allée d'Erdre",wikidata,-,Q1349493,relation
+"Allée d'Orléans",wikidata,-,Q16303621;Q6548,relation+way
+"Allée d'Oslo",wikidata,-,Q585,way
+"Allée de Bannalec",wikidata,-,Q318227,relation
+"Allée de Bénodet",wikidata,-,Q329911,relation
+"Allée de Fouesnant",wikidata,-,Q245149,relation
+"Allée de Loctudy",wikidata,-,Q383352,relation
+"Allée de Nossi-Bé",wikidata,-,Q1330558,relation
+"Allée de Portricq",wikidata,-,Q24936825,relation
+"Allée de Tuamotou",wikidata,-,Q183963,relation
+"Allée de l'Aube",wikidata,-,Q11326182,relation
+"Allée de l'Enfance",wikidata,-,Q276258,relation
+"Allée de l'Île Gloriette",wikidata,-,Q3593081,relation
+"Allée de l'Indre",wikidata,-,Q12553,way
+"Allée de l’Agrion-Gracieux",wikidata,-,Q1029095,way
+"Allée de la Bourse",wikidata,-,Q767657,way
+"Allée de la Cigarière",wikidata,-,Q124070617,way
+"Allée de la Gallinule",wikidata,-,Q18847,way
+"Allée de la Guadeloupe",wikidata,-,Q3118683,relation
+"Allée de la Martinique",wikidata,-,Q17054,relation
+"Allée de la Nive",wikidata,-,Q974519,relation
+"Allée de la Réunion",wikidata,-,Q17070,relation
+"Allée des Alizés",wikidata,-,Q20680470,relation
+"Allée des Cerisiers",wikidata,-,Q2946681,relation
+"Allée des Crocus",wikidata,-,Q157806,relation
+"Allée des Cytises",wikidata,-,Q157226,relation
+"Allée des Filaos",wikidata,-,Q135346,relation
+"Allée des Généraux Patton et Wood",wikidata,-,Q16303612,way
+"Allée des Glaïeuls",wikidata,-,Q156207,relation
+"Allée des Hippocampes",wikidata,-,Q74363,relation
+"Allée des Îles Gambier",wikidata,-,Q504043,relation
+"Allée des Îles Loyauté",wikidata,-,Q913470,relation
+"Allée des Îles Marquise",wikidata,-,Q172697,relation
+"Allée des Jasmins",wikidata,-,Q82014,relation
+"Allée des Nouvelles Hébrides",wikidata,-,Q19399831,way
+"Allée des Peupliers",wikidata,-,Q25356,relation
+"Allée des Pinsons",wikidata,-,Q30241,relation
+"Allée des Tamariniers",wikidata,-,Q80235,relation
+"Allée des Vétivers",wikidata,-,Q1877566,relation
+"Allée du Cher",wikidata,-,Q213503,way
+"Allée du Crépuscule",wikidata,-,Q164160,relation
+"Allée du Héron",wikidata,-,Q3259077,way
+"Avenue Camus",wikidata,-,Q34670;Q1549283,relation
+"Avenue Saint-Félix",wikidata,-,Q3581497,relation
+"Avenue Saint-Goazec",wikidata,-,Q622461,relation
+"Avenue Saint-Pol de Léon",wikidata,-,Q239908,relation
+"Avenue d'Auray",wikidata,-,Q62958,relation
+"Avenue d'Hestia",wikidata,-,Q41419,relation
+"Avenue d'Hoëdic",wikidata,-,Q71028,relation
+"Avenue d'Ouessant",wikidata,-,Q202378,relation
+"Avenue de Bayonne",wikidata,-,Q134674,relation
+"Avenue de Bourgogne",wikidata,-,Q1173,relation
+"Avenue de Brocéliande",wikidata,-,Q2925919,relation
+"Avenue de Corinthe",wikidata,-,Q103011,relation
+"Avenue de Delphes",wikidata,-,Q75459,relation
+"Avenue de France",wikidata,-,Q142,relation
+"Avenue de Galice",wikidata,-,Q3908,relation
+"Avenue de Gourin",wikidata,-,Q71216,relation
+"Avenue de Josselin",wikidata,-,Q71500,relation
+"Avenue de Landevennec",wikidata,-,Q193530,relation
+"Avenue de Lausanne",wikidata,-,Q807,relation
+"Avenue de Locmariaquer",wikidata,-,Q71657,relation
+"Avenue de Locronan",wikidata,-,Q272369,relation
+"Avenue de Marvejols",wikidata,-,Q457631,relation
+"Avenue de Navarre",wikidata,-,Q4018,relation
+"Avenue de Normandie",wikidata,-,Q15878,relation
+"Avenue de Paimpont",wikidata,-,Q152741,relation
+"Avenue de Plougastel",wikidata,-,Q383277,relation
+"Avenue de Rome",wikidata,-,Q220,relation
+"Avenue de Salonique",wikidata,-,Q17151,relation
+"Avenue de Suroît",wikidata,-,Q1703524,relation
+"Avenue de Tahiti",wikidata,-,Q42000,relation
+"Avenue de Versailles",wikidata,-,Q621,relation
+"Avenue de Wattignies",wikidata,-,Q1059732,relation
+"Avenue de l'Aigue Marine",wikidata,-,Q58959,relation
+"Avenue de l'Albatros",wikidata,-,Q55805,relation
+"Avenue de l'Amphibolite",wikidata,-,Q335239,relation
+"Avenue de l'Astérie",wikidata,-,Q25349,relation
+"Avenue de l'Aumônerie",wikidata,-,Q15548045,relation
+"Avenue de l'Aurore",wikidata,-,Q164160,relation
+"Avenue de l'Engoulevent",wikidata,-,Q27244,relation
+"Avenue de l'Étoile de Mer",wikidata,-,Q25349,relation
+"Avenue de l'Éveil",wikidata,-,Q46,relation
+"Avenue de l'Everest",wikidata,-,Q513,relation
+"Avenue de l'Hermine",wikidata,-,Q25345,relation
+"Avenue de l'Horticulture",wikidata,-,Q48803,relation
+"Avenue de l'Hôtel Dieu",wikidata,-,Q3145385,relation
+"Avenue de l'Île de Groix",wikidata,-,Q3593372,relation
+"Avenue de l'Omnibus",wikidata,-,Q5638,relation
+"Avenue de la Calypso",wikidata,-,Q20680793,relation+way
+"Avenue de la Côte d'Or",wikidata,-,Q3342,relation
+"Avenue de la Gare de Legé",wikidata,-,Q28040814,relation
+"Avenue de la Gare de Saint-Joseph",wikidata,-,Q18908017,relation
+"Avenue de la Giroflée",wikidata,-,Q27961,relation
+"Avenue de la Grande Ourse",wikidata,-,Q8918,relation
+"Avenue de la Paix",wikidata,-,Q454,relation
+"Avenue de la Salamandre",wikidata,-,Q3469592,relation
+"Avenue des Acacias",wikidata,-,Q81666,relation
+"Avenue des Ajoncs",wikidata,-,Q393278,relation
+"Avenue des Algues",wikidata,-,Q37868,relation
+"Avenue des Alouettes",wikidata,-,Q2839337;Q29858,relation+way
+"Avenue des Alpagas",wikidata,-,Q81564,relation
+"Avenue des Amandiers",wikidata,-,Q39918,relation
+"Avenue des Amaryllis",wikidata,-,Q161577,relation
+"Avenue des Améthystes",wikidata,-,Q79058,relation
+"Avenue des Antilopes",wikidata,-,Q1416078,relation
+"Avenue des Bouleaux",wikidata,-,Q25243,relation
+"Avenue des Chèvrefeuilles",wikidata,-,Q156047,relation
+"Avenue des Clavecins",wikidata,-,Q81982,relation
+"Avenue des Coquelicots",wikidata,-,Q130201,relation
+"Avenue des Dalmatiens",wikidata,-,Q17504,relation
+"Avenue des Danois",wikidata,-,Q5414,relation
+"Avenue des Druides",wikidata,-,Q131081,relation
+"Avenue des Épagneuls",wikidata,-,Q39115,relation
+"Avenue des Épicéas",wikidata,-,Q26782,relation
+"Avenue des Fées",wikidata,-,Q8028,relation
+"Avenue des Flamboyants",wikidata,-,Q1428973,relation
+"Avenue des Goélands",wikidata,-,Q3112866,relation
+"Avenue des Guitares",wikidata,-,Q6607,relation
+"Avenue des Hélianthes",wikidata,-,Q26949,relation
+"Avenue des Héliotropes",wikidata,-,Q158082,relation
+"Avenue des Hespérides",wikidata,-,Q15942893,relation
+"Avenue des Hortensias",wikidata,-,Q155997,relation
+"Avenue des Iris",wikidata,-,Q156901,relation
+"Avenue des Jades",wikidata,-,Q175089,relation
+"Avenue des Jonquilles",wikidata,-,Q16104352,relation
+"Avenue des Korrigans",wikidata,-,Q582566,relation
+"Avenue des Lévriers",wikidata,-,Q39344,relation
+"Avenue des Lilas",wikidata,-,Q6565319,relation
+"Avenue des Magnolias",wikidata,-,Q157017,relation
+"Avenue des Mélodies",wikidata,-,Q4797274,relation
+"Avenue des Mésanges",wikidata,-,Q168473,relation
+"Avenue des Nèfles",wikidata,-,Q3092517,relation
+"Avenue des Nénuphars",wikidata,-,Q3347071,relation
+"Avenue des Oiseaux",wikidata,-,Q5113,relation
+"Avenue des Opalines",wikidata,-,Q1707999,relation
+"Avenue des Orchidées",wikidata,-,Q25308,relation
+"Avenue des Palétuviers",wikidata,-,Q19756,relation
+"Avenue des Palmiers",wikidata,-,Q14080,relation
+"Avenue des Palombes",wikidata,-,Q26026,relation
+"Avenue des Pampres",wikidata,-,Q3361825,relation
+"Avenue des Pétrels",wikidata,-,Q3092053,relation
+"Avenue des Poiriers",wikidata,-,Q20682751,relation
+"Avenue des Préludes",wikidata,-,Q212148,relation
+"Avenue des Pyrénées",wikidata,-,Q12431,relation
+"Avenue des Récifs",wikidata,-,Q184358,relation
+"Avenue des Saules",wikidata,-,Q36050,relation
+"Avenue des Troënes",wikidata,-,Q753099,relation
+"Avenue des Varechs",wikidata,-,Q237169,relation
+"Avenue du Cap Fréhel",wikidata,-,Q175676,relation
+"Avenue du Cépage",wikidata,-,Q958314,relation
+"Avenue du Chalet",wikidata,-,Q136689,relation
+"Avenue du Cimetière Saint-Clair",wikidata,-,Q45208630,relation
+"Avenue du Corail",wikidata,-,Q171446,relation
+"Avenue du Gué Moreau",wikidata,-,Q138494584,relation
+"Avenue du Gui",wikidata,-,Q144940,relation
+"Avenue du Lac de Guerlédan",wikidata,-,Q3215459,relation
+"Avenue du Loing",wikidata,-,Q15118795,relation
+"Avenue du Miroir d'Eau",wikidata,-,Q1328914,relation
+"Avenue du Mont Saint-Michel",wikidata,-,Q20892,relation
+"Avenue du Muguet",wikidata,-,Q101711,relation
+"Avenue du Myosotis",wikidata,-,Q147149,relation
+"Avenue du Noroît",wikidata,-,Q3344047,relation
+"Avenue du Parc de Procé",wikidata,-,Q3364152,relation
+"Avenue du Parc du Grand Blottereau",wikidata,-,Q3364347,relation
+"Avenue du Printemps",wikidata,-,Q1312,relation
+"Avenue du Sextant",wikidata,-,Q179430,relation
+"Avenue du Vercors",wikidata,-,Q1435063,relation
+"Boulevard Allard",wikidata,-,Q1549283,relation
+"Boulevard de Berlin",wikidata,-,Q64,relation+way
+"Boulevard de Doulon",wikidata,-,Q3038103,relation+way
+"Boulevard de Seattle",wikidata,-,Q5083,relation+way
+"Boulevard de Stalingrad",wikidata,-,Q38789;Q914,relation+way
+"Boulevard de Vendée",wikidata,-,Q12798,way
+"Boulevard de l'Égalité",wikidata,-,Q113453;Q251583,relation+way
+"Boulevard de l'Estuaire",wikidata,-,Q3059070,relation+way
+"Boulevard de l'Europe",wikidata,-,Q46,relation
+"Boulevard de la Beaujoire",wikidata,-,Q16304198,relation+way
+"Boulevard de la Fraternité",wikidata,-,Q251583;Q5868822,relation+way
+"Boulevard de la Liberté",wikidata,-,Q251583;Q2979,relation+way
+"Boulevard de la Prairie de Mauves",wikidata,-,Q125828842,relation+way
+"Boulevard des Anglais",wikidata,-,Q42406,relation
+"Boulevard des Antilles",wikidata,-,Q166131,way
+"Boulevard des Belges",wikidata,-,Q1377716,relation
+"Boulevard des Frères de Goncourt",wikidata,-,Q622283,relation
+"Boulevard des Martyrs Nantais de la Résistance",wikidata,-,Q2922049,relation+way
+"Boulevard des Nations Unies",wikidata,-,Q1065,way
+"Busway Ligne 4",wikidata,-,Q2928801,way
+"Chemin de Belle Île",wikidata,-,Q815838,relation+way
+"Chemin de Paris",wikidata,-,Q90,relation
+"Chemin de la Houssinière",wikidata,-,Q56149370,relation
+"Chemin des Feux Follets",wikidata,-,Q160569,relation
+"Chemin des Grillons",wikidata,-,Q47328,relation
+"Chemin du Bas",wikidata,-,Q125828460,relation+way
+"Chemin du Gesvres",wikidata,-,Q3104586,way
+"Côte Saint-Sébastien",wikidata,-,Q16507702,relation+way
+"Cour Cathuis",wikidata,-,Q618532,relation
+"Cour du Château des Ducs de Bretagne",wikidata,-,Q71747,relation
+"Cours Corbilo",wikidata,-,Q2997065,way
+"Cours des Cinquante Otages",wikidata,-,Q3001378;Q3427348;Q65683663,relation+way
+"Esplanade des Cinq Communes Compagnon de la Libération",wikidata,-,Q2990283,relation
+"Esplanade des Victimes des Bombardements des 16 et 23 Septembre 1943",wikidata,-,Q2909621,way
+"Impasse Corto Maltese",wikidata,-,Q27642997,relation
+"Impasse Île de Molène",wikidata,-,Q2428252,way
+"Impasse Le Globe",wikidata,-,Q3223120,relation
+"Impasse Perceval",wikidata,-,Q728510,relation
+"Impasse Ushuaïa",wikidata,-,Q44254,relation
+"Impasse de Belgique",wikidata,-,Q31,relation
+"Impasse de Paimpol",wikidata,-,Q322453,relation
+"Impasse de l'Estuaire",wikidata,-,Q3059070,way
+"Impasse des Agates",wikidata,-,Q123314,relation
+"Impasse des Aubépines",wikidata,-,Q132557,relation
+"Impasse des Boutons d'Or",wikidata,-,Q146130,relation
+"Impasse des Cornalines",wikidata,-,Q324369,relation
+"Impasse des Monts d'Arrée",wikidata,-,Q2607651,relation
+"Impasse des Photinias",wikidata,-,Q1070845,relation
+"Impasse du Belem",wikidata,-,Q815384,relation
+"Impasse du Croisic",wikidata,-,Q840597,way
+"Impasse du Graal",wikidata,-,Q162808,relation
+"Impasse du Maillé Brézé",wikidata,-,Q2103611,relation
+"Mail de Landivisiau",wikidata,-,Q329653,way
+Médiathèque,wikidata,-,Q16509013,relation
+"Miroir d'eau",wikidata,-,Q42760199,way
+"Parvis Neptune",wikidata,-,Q3954,relation+way
+"Passage Bourbaki",wikidata,-,Q190529,way
+"Passage Joseph Paris",wikidata,-,Q40045396,relation
+"Passage Leroy",wikidata,-,Q618532,relation
+"Passage Saint-Christophe",wikidata,-,Q125920015,way
+"Passage des Orangers",wikidata,-,Q3355098,way
+"Passage des Tauzins",wikidata,-,Q899686,relation
+"Périphérique Extérieur - Pont de la Beaujoire",wikidata,-,Q1053455,way
+"Périphérique Intérieur - Pont de la Beaujoire",wikidata,-,Q1053455,way
+"Place Alexis Ricordeau",wikidata,-,Q3389686,relation+way
+"Place Fernand-Soil",wikidata,-,Q16510174,way
+"Place Pirmil",wikidata,-,Q16670281,relation+way
+"Place Tirant Lo Blanc",wikidata,-,Q86916823,way
+"Place d'Oradour-sur-Glane",wikidata,-,Q51300191,relation+way
+"Place de Bretagne",wikidata,-,Q327,relation
+"Place de Jacksonville",wikidata,-,Q16568,way
+"Place de Prague",wikidata,-,Q1085,way
+"Place de la Bourse",wikidata,-,Q767657,relation+way
+"Place de la Croix Bonneau",wikidata,-,Q125542228,relation
+"Place de la Gare de l'État",wikidata,-,Q957240,relation
+"Place de la Liberté",wikidata,-,Q2979,relation+way
+"Place de la République",wikidata,-,Q7270,relation
+"Place des Enfants Nantais",wikidata,-,Q3036218;Q2886987,relation
+"Place des Érables",wikidata,-,Q42292,way
+"Place des Fonderies",wikidata,-,Q20681507,relation+way
+"Place des Jacobins",wikidata,-,Q15958143,relation
+"Place des Tonneliers",wikidata,-,Q38883,relation+way
+"Place des Volontaires de la Défense Passive",wikidata,-,Q2909621,way
+"Place du 116e Régiment d'Infanterie",wikidata,-,Q2807050,relation
+"Place du 265e Régiment d'Infanterie",wikidata,-,Q124071357,way
+"Place du 51e Régiment d'Artillerie",wikidata,-,Q2817427,relation+way
+"Place du Bihoreau Gris",wikidata,-,Q126216,relation+way
+"Place du Bon Pasteur",wikidata,-,Q950667,relation
+"Place du Bouffay",wikidata,-,Q20970968,relation+way
+"Place du Cirque",wikidata,-,Q108914550,relation
+"Place du Commerce",wikidata,-,Q3390596,relation+way
+"Place du Garigliano",wikidata,-,Q287568,way
+"Place du Pilori",wikidata,-,Q3390670,relation+way
+"Place du Réseau Cohors-Asturies",wikidata,-,Q2981881,way
+"Pont Saint-Mihiel",wikidata,-,Q3396735,way
+"Pont de Pirmil",wikidata,-,Q3397083,way
+"Pont de Tbilissi",wikidata,-,Q994,way
+"Pont de la Morinière",wikidata,-,Q16510443,way
+"Pont de la Rotonde",wikidata,-,Q623525,way
+"Pont des Bataillons FFI",wikidata,-,Q186595,way
+"Promenade Sorbiers des Oiseaux",wikidata,-,Q146198,way
+"Promenade de l'Erdre",wikidata,-,Q1349493,way
+"Quai de Malakoff",wikidata,-,Q586204,relation
+"Quai des Antilles",wikidata,-,Q21022,relation
+"Rond-Point de Berlin",wikidata,-,Q64,way
+"Rond-Point de Rennes",wikidata,-,Q647,way
+"Route de Carquefou",wikidata,-,Q540940,relation+way
+"Route de Clisson",wikidata,-,Q383472,relation+way
+"Route de La Chapelle sur Erdre",wikidata,-,Q681819,relation+way
+"Route de Paris",wikidata,-,Q90,relation+way
+"Route de Roche Maurice",wikidata,-,Q113465701,relation
+"Route de Saint-Joseph",wikidata,-,Q24936825,relation+way
+"Route de Sainte-Luce",wikidata,-,Q657190,relation+way
+"Route de Vannes",wikidata,-,Q6593,relation
+"Route de Vertou",wikidata,-,Q328077,relation+way
+"Rue Anne-Marie",wikidata,-,Q18091413,relation
+"Rue Beau Soleil",wikidata,-,Q525,relation
+"Rue Bergère",wikidata,-,Q81710,relation
+"Rue Bon Secours",wikidata,-,Q2956568,relation+way
+"Rue Bonnamen",wikidata,-,Q1549283,relation
+"Rue Capitaine Némo",wikidata,-,Q1046049,relation
+"Rue Conan Mériadec",wikidata,-,Q979146,relation
+"Rue Diane",wikidata,-,Q132543,relation
+"Rue Dos d'Âne",wikidata,-,Q16510925,way
+"Rue Flandres-Dunkerque 40",wikidata,-,Q208529,relation+way
+"Rue Floréal",wikidata,-,Q837293,relation
+"Rue Fructidor",wikidata,-,Q837284,relation
+"Rue Gabriel",wikidata,-,Q81989,relation
+"Rue Gabriel Luneau",wikidata,-,Q618532,relation
+"Rue Gentiane",wikidata,-,Q16974943,relation
+"Rue Georges Chartrin",wikidata,-,Q20681655,relation+way
+"Rue Giton",wikidata,-,Q733879,relation
+"Rue Guibal",wikidata,-,Q618532,relation
+"Rue Harouys",wikidata,-,Q16034328;Q16640526;Q2959313;Q16661358;Q16645603,relation
+"Rue Henri Lasne",wikidata,-,Q20681892,relation+way
+"Rue Leroy",wikidata,-,Q618532,relation
+"Rue Ligérienne",wikidata,-,Q16994,relation+way
+"Rue Marianne",wikidata,-,Q125926254,way
+"Rue Mathelin Rodier",wikidata,-,Q3449101,relation+way
+"Rue Mazagran",wikidata,-,Q2889297,relation
+"Rue Messidor",wikidata,-,Q837281,relation
+"Rue Michel Strogoff",wikidata,-,Q1121567,relation
+"Rue Moquechien",wikidata,-,Q144,relation
+"Rue Neuve des Capucins",wikidata,-,Q124862,relation
+"Rue Notre-Dame",wikidata,-,Q345;Q15958163,relation
+"Rue Philéas Fogg",wikidata,-,Q2587533,relation
+"Rue Saint-Jacques",wikidata,-,Q3449896,relation+way
+"Rue Saint-Jean-de-Luz",wikidata,-,Q232135,relation
+"Rue Saint-Stanislas",wikidata,-,Q3268936,relation
+"Rue Saint-Vincent",wikidata,-,Q16510230,relation
+"Rue Sainte-Catherine",wikidata,-,Q72106137,relation
+"Rue Sébastienne Guyot",wikidata,-,Q125938562,way
+"Rue Stuart",wikidata,-,Q130313389,relation
+"Rue Vendémiaire",wikidata,-,Q837299,relation
+"Rue Vulcain",wikidata,-,Q4640,relation
+"Rue d'Alger",wikidata,-,Q2629782,relation
+"Rue d'Allemagne",wikidata,-,Q183,relation
+"Rue d'Alsace",wikidata,-,Q1142,relation
+"Rue d'Angleterre",wikidata,-,Q21,relation
+"Rue d'Angoumois",wikidata,-,Q542638,relation
+"Rue d'Anjou",wikidata,-,Q107426,relation
+"Rue d'Ascain",wikidata,-,Q838300,relation
+"Rue d'Athènes",wikidata,-,Q1524,relation
+"Rue d'Audierne",wikidata,-,Q221683,relation
+"Rue d'Aunis",wikidata,-,Q773756,relation
+"Rue d'Autan",wikidata,-,Q1788524,relation
+"Rue d'Autriche",wikidata,-,Q40,relation
+"Rue d'Auvours",wikidata,-,Q2873110;Q40559,relation
+"Rue d'Écosse",wikidata,-,Q22,way
+"Rue d'El-Alamein",wikidata,-,Q153376,relation+way
+"Rue d'Épinal",wikidata,-,Q173695,relation+way
+"Rue d'Erquy",wikidata,-,Q868650,relation
+"Rue d'Espagne",wikidata,-,Q29,relation
+"Rue d'Hasparren",wikidata,-,Q197150,relation
+"Rue d'Helvétie",wikidata,-,Q39,relation
+"Rue d'Hendaye",wikidata,-,Q191754,relation
+"Rue d'Irlande",wikidata,-,Q27,relation
+"Rue d'Iroise",wikidata,-,Q208962,relation
+"Rue d'Italie",wikidata,-,Q38,relation
+"Rue d'Ottawa",wikidata,-,Q1930,relation
+"Rue de Belfort",wikidata,-,Q472982,relation
+"Rue de Biarritz",wikidata,-,Q132790,relation
+"Rue de Bitche",wikidata,-,Q28651,relation
+"Rue de Blois",wikidata,-,Q160927,relation
+"Rue de Bolivie",wikidata,-,Q750,relation
+"Rue de Brest",wikidata,-,Q12193,relation+way
+"Rue de Bruxelles",wikidata,-,Q239,relation
+"Rue de Budapest",wikidata,-,Q1781,relation
+"Rue de Camaret",wikidata,-,Q383363,way
+"Rue de Chypre",wikidata,-,Q229,relation+way
+"Rue de Cochabamba",wikidata,-,Q183124,way
+"Rue de Colmar",wikidata,-,Q130994;Q46083,relation
+"Rue de Constantine",wikidata,-,Q187346;Q636772,relation
+"Rue de Coulmiers",wikidata,-,Q570919,relation
+"Rue de Crozon",wikidata,-,Q218058,relation
+"Rue de Finlande",wikidata,-,Q33,way
+"Rue de Fleurus",wikidata,-,Q855429,relation
+"Rue de Floride",wikidata,-,Q812,relation
+"Rue de Genève",wikidata,-,Q71,relation
+"Rue de Gesvres",wikidata,-,Q3104586,relation
+"Rue de Grèce",wikidata,-,Q41,way
+"Rue de Hambourg",wikidata,-,Q1055,way
+"Rue de Hamilton",wikidata,-,Q133116,relation
+"Rue de Hongrie",wikidata,-,Q28,relation
+"Rue de Jemmapes",wikidata,-,Q855271,relation
+"Rue de Koufra",wikidata,-,Q2616448,relation
+"Rue de Lorraine",wikidata,-,Q1137,relation
+"Rue de Madrid",wikidata,-,Q2807,relation
+"Rue de Malville",wikidata,-,Q743520,relation+way
+"Rue de Manille",wikidata,-,Q1461,relation
+"Rue de Maryland",wikidata,-,Q1391,relation
+"Rue de Mascara",wikidata,-,Q3403827,relation
+"Rue de Mayence",wikidata,-,Q1720,relation
+"Rue de Metz",wikidata,-,Q22690,relation
+"Rue de Miribel",wikidata,-,Q363100,relation
+"Rue de Monaco",wikidata,-,Q235,relation
+"Rue de Montréal",wikidata,-,Q340,relation
+"Rue de Moorea",wikidata,-,Q673400,way
+"Rue de Nancy",wikidata,-,Q40898,relation+way
+"Rue de Norvège",wikidata,-,Q20,relation
+"Rue de Pologne",wikidata,-,Q36,relation
+"Rue de Pornic",wikidata,-,Q752390,relation
+"Rue de Pornichet",wikidata,-,Q656483,relation
+"Rue de Prétoria",wikidata,-,Q3926,relation
+"Rue de Provence",wikidata,-,Q101081,relation
+"Rue de Québec",wikidata,-,Q2145,relation
+"Rue de Recife",wikidata,-,Q48344,way
+"Rue de Roubaix",wikidata,-,Q34001,relation
+"Rue de Saint-Brévin",wikidata,-,Q752437,relation
+"Rue de Saint-Domingue",wikidata,-,Q34820,way
+"Rue de Saintonge",wikidata,-,Q1509703,relation
+"Rue de Saverne",wikidata,-,Q22741,relation
+"Rue de Strasbourg",wikidata,-,Q6602,relation+way
+"Rue de Suisse",wikidata,-,Q39,relation
+"Rue de Tackrouna",wikidata,-,Q3514372,relation
+"Rue de Tchécoslovaquie",wikidata,-,Q33946,relation
+"Rue de Thann",wikidata,-,Q207570,relation
+"Rue de Toronto",wikidata,-,Q172,relation
+"Rue de Valenciennes",wikidata,-,Q163795,relation
+"Rue de Valmy",wikidata,-,Q4411,relation
+"Rue de Vancouver",wikidata,-,Q24639,relation
+"Rue de Verdun",wikidata,-,Q130847,relation
+"Rue de Winnipeg",wikidata,-,Q2135,relation
+"Rue de l'Adour",wikidata,-,Q207366,relation+way
+"Rue de l'Allier",wikidata,-,Q2464,relation
+"Rue de l'Angélique des Estuaires",wikidata,-,Q2849404,relation+way
+"Rue de l'Arche Sèche",wikidata,-,Q100866568,relation
+"Rue de l'Ariège",wikidata,-,Q18451,relation
+"Rue de l'Aulne",wikidata,-,Q5079,relation
+"Rue de l'Avenir",wikidata,-,Q344,relation
+"Rue de l'Aveyron",wikidata,-,Q751887,relation
+"Rue de l'Équateur",wikidata,-,Q736,relation
+"Rue de l'Europe",wikidata,-,Q46,relation
+"Rue de l'Hérault",wikidata,-,Q81773,relation
+"Rue de l'Herminette",wikidata,-,Q2517447,relation
+"Rue de l'Héronnière",wikidata,-,Q3259077,relation
+"Rue de l'Hippodrome",wikidata,-,Q25221539,relation
+"Rue de l'Île Mabon",wikidata,-,Q20127554,relation
+"Rue de l'Île d'Yeu",wikidata,-,Q1970151,relation
+"Rue de l'Île de Sein",wikidata,-,Q228472,relation
+"Rue de l'Indre",wikidata,-,Q217347,relation
+"Rue de l'Isère",wikidata,-,Q201341,relation
+"Rue de l'Odet",wikidata,-,Q1244790,relation
+"Rue de l'Union",wikidata,-,Q3550076,way
+"Rue de la Basse Casserie",wikidata,-,Q16510652,way
+"Rue de la Bottière",wikidata,-,Q2911849,relation
+"Rue de la Chézine",wikidata,-,Q2972096,relation
+"Rue de la Commune",wikidata,-,Q133132,relation
+"Rue de la Constitution",wikidata,-,Q971176,relation
+"Rue de la Convention",wikidata,-,Q219825,relation
+"Rue de la Cornouaille",wikidata,-,Q1134273,relation+way
+"Rue de la Corse",wikidata,-,Q14112,relation
+"Rue de la Dordogne",wikidata,-,Q3357,relation
+"Rue de la Drôme",wikidata,-,Q743296,relation
+"Rue de la Fantaisie",wikidata,-,Q836571,relation+way
+"Rue de la Fenaison",wikidata,-,Q3744585,relation
+"Rue de la Fleur de Sel",wikidata,-,Q2167413,relation
+"Rue de la Gare de Chantenay",wikidata,-,Q3096188,relation+way
+"Rue de la Grande Bretagne",wikidata,-,Q23666,relation
+"Rue de la Grange au Loup",wikidata,-,Q1972887,relation
+"Rue de la Guyane",wikidata,-,Q3769,relation
+"Rue de la Gymnastique",wikidata,-,Q43450,relation
+"Rue de la Hautière",wikidata,-,Q3286340,relation
+"Rue de la Havane",wikidata,-,Q1563,relation
+"Rue de la Hérelle",wikidata,-,Q816236,relation
+"Rue de la Laïcité",wikidata,-,Q216920,way
+"Rue de la Loire",wikidata,-,Q1469,relation
+"Rue de la Marne",wikidata,-,Q190712,relation
+"Rue de la Marseillaise",wikidata,-,Q41180,relation
+"Rue de la Méthode",wikidata,-,Q1799072,relation+way
+"Rue de la Musique",wikidata,-,Q638,relation
+"Rue de la Paix",wikidata,-,Q8736,relation+way
+"Rue de la Petite Baratte",wikidata,-,Q1018079,relation
+"Rue de la Révolution des Œillets",wikidata,-,Q193245,relation
+"Rue de la Roche",wikidata,-,Q125828053,way
+"Rue de la Salsepareille",wikidata,-,Q161119,relation
+"Rue de la Saône",wikidata,-,Q187834,relation
+"Rue de la Vezère",wikidata,-,Q118167,relation
+"Rue de la Ville en Pierre",wikidata,-,Q20683210,relation+way
+"Rue des Acadiens",wikidata,-,Q415054,relation
+"Rue des Albizzias",wikidata,-,Q16480447,relation
+"Rue des Alouettes",wikidata,-,Q2839337,relation
+"Rue des Avocatiers",wikidata,-,Q37153,relation
+"Rue des Bataillons FFI",wikidata,-,Q186595,way
+"Rue des Bateaux Lavoirs",wikidata,-,Q52820476,relation
+"Rue des Boers",wikidata,-,Q188201,relation
+"Rue des Boires",wikidata,-,Q125790563,way
+"Rue des Bruyères",wikidata,-,Q17128757,relation
+"Rue des Camélias",wikidata,-,Q212815,relation
+"Rue des Carmes",wikidata,-,Q186277,relation
+"Rue des Cèdres",wikidata,-,Q128550,relation
+"Rue des Chalâtres",wikidata,-,Q20680863,relation+way
+"Rue des Clématites",wikidata,-,Q157634,relation
+"Rue des Cols Verts",wikidata,-,Q25348,relation
+"Rue des Cordeliers",wikidata,-,Q1132156;Q15958142,relation
+"Rue des Cupressus",wikidata,-,Q146911,relation
+"Rue des Dahlias",wikidata,-,Q130918,relation
+"Rue des Daims",wikidata,-,Q159857,relation
+"Rue des Deux-Ponts",wikidata,-,Q100866568,relation
+"Rue des Droits de l'Homme",wikidata,-,Q8458,relation
+"Rue des États",wikidata,-,Q3591893,relation
+"Rue des Figuiers",wikidata,-,Q36146,relation
+"Rue des Floralies",wikidata,-,Q3073846,relation
+"Rue des Micocouliers",wikidata,-,Q248582,relation
+"Rue des Millepertuis",wikidata,-,Q156935,relation
+"Rue des Moissons",wikidata,-,Q7214166,relation
+"Rue des Mûriers Sauvages",wikidata,-,Q13541716,relation
+"Rue des Nèfliers",wikidata,-,Q146186,relation
+"Rue des Olivettes",wikidata,-,Q166557,relation
+"Rue des Pays Bas",wikidata,-,Q55,relation
+"Rue des Platanes",wikidata,-,Q163025,relation
+"Rue des Renards",wikidata,-,Q8331,relation+way
+"Rue des Sables d'Olonne",wikidata,-,Q211923,relation
+"Rue des Salicornes",wikidata,-,Q159525,relation+way
+"Rue des Salorges",wikidata,-,Q2216217,relation
+"Rue des Setters",wikidata,-,Q39640,relation
+"Rue des Shetlands",wikidata,-,Q47134,relation
+"Rue des Tilleuls",wikidata,-,Q127849,relation
+"Rue des Tulipes",wikidata,-,Q93201,relation
+"Rue du 14 Juillet",wikidata,-,Q6539,relation
+"Rue du 1er Mai",wikidata,-,Q10901070,relation
+"Rue du 3e Dragons",wikidata,-,Q252468,relation
+"Rue du 4 Août 1789",wikidata,-,Q2622002,relation
+"Rue du 4 Septembre 1870",wikidata,-,Q3406432,relation
+"Rue du 65e Régiment d'Infanterie",wikidata,-,Q2818007,relation+way
+"Rue du Bénélux",wikidata,-,Q13116,relation
+"Rue du Berry",wikidata,-,Q827169,relation
+"Rue du Blavet",wikidata,-,Q745809,relation
+"Rue du Bourget",wikidata,-,Q3025060,relation
+"Rue du Brouillard",wikidata,-,Q37477,relation
+"Rue du Cens",wikidata,-,Q2944245,relation
+"Rue du Champ de Tir",wikidata,-,Q115203659,relation+way
+"Rue du Château de l'Éraudière",wikidata,-,Q56149604,relation+way
+"Rue du Chêne Vert",wikidata,-,Q218155,way
+"Rue du Chêne d'Aron",wikidata,-,Q33036816,relation
+"Rue du Cinéma Pax",wikidata,-,Q136400599,relation
+"Rue du Costa Rica",wikidata,-,Q800,relation
+"Rue du Danemark",wikidata,-,Q35,relation+way
+"Rue du Doubs",wikidata,-,Q3361;Q14372,relation
+"Rue du Drac",wikidata,-,Q1127096,relation
+"Rue du Fer à Cheval",wikidata,-,Q192130,relation
+"Rue du Gers",wikidata,-,Q836299,relation
+"Rue du Guatemala",wikidata,-,Q774,relation
+"Rue du Honduras",wikidata,-,Q783,relation
+"Rue du Limousin",wikidata,-,Q1190,way
+"Rue du Luxembourg",wikidata,-,Q32,relation
+"Rue du Maine",wikidata,-,Q724;Q732738,relation
+"Rue du Maroc",wikidata,-,Q1028,relation
+"Rue du Morbihan",wikidata,-,Q12642,relation
+"Rue du Nadir",wikidata,-,Q145825,relation
+"Rue du Nicaragua",wikidata,-,Q811,relation
+"Rue du Panama",wikidata,-,Q804,relation
+"Rue du Paraguay",wikidata,-,Q733,relation+way
+"Rue du Pays de Galles",wikidata,-,Q25,way
+"Rue du Pen Duick II",wikidata,-,Q3374613,relation
+"Rue du Périgord",wikidata,-,Q850620,relation
+"Rue du Phare de la Banche",wikidata,-,Q3378463,way
+"Rue du Phare de la Vieille",wikidata,-,Q2085015,relation
+"Rue du Phare du Pilier",wikidata,-,Q2085060,relation
+"Rue du Plateau des Glières",wikidata,-,Q3391934,relation
+"Rue du Poitou",wikidata,-,Q954076,relation
+"Rue du Pont Sauvetout",wikidata,-,Q100868405,relation+way
+"Rue du Pont de l'Arche de Mauves",wikidata,-,Q16510887,relation+way
+"Rue du Pré-Salé",wikidata,-,Q29925,way
+"Rue du Rhône",wikidata,-,Q602,relation
+"Rue du Salvador",wikidata,-,Q792,relation
+"Rue du Scorff",wikidata,-,Q1244766,way
+"Rue du Sénat",wikidata,-,Q215987,relation
+"Rue du Sénégal",wikidata,-,Q1041,relation
+"Rue du Tonkin",wikidata,-,Q622778,relation
+"Rue du Transvaal",wikidata,-,Q190959,relation
+"Rue du Tripode",wikidata,-,Q3227841,way
+"Rue du Tyrol",wikidata,-,Q153809,relation
+"Rue du Vélodrome de Longchamp",wikidata,-,Q71888649,relation
+"Rue du Vénézuela",wikidata,-,Q717,relation
+"Square Jean Heurtin",wikidata,-,Q20682017,way
+"Venelle des Fauvettes",wikidata,-,Q3067559,way
+"Venelle des Linottes",wikidata,-,Q11756901,way
+"Venelle du Thouet",wikidata,-,Q1548875,way
+"Voies 10-11",wikidata,-,Q2180175,way
+"Allée du Port Maillard",wikidata,?,Q128210390;Q2838990,relation+way
+"Boulevard Jean Philippot",wikidata,?,Q15156510;Q3173967,way
+"Place Victor Mangin",wikidata,?,Q128210110;Q16510241,relation+way
+"Rue Esnoul des Châtelets",wikidata,?,Q128604208;Q20681401,relation+way
+"Rue Fouré",wikidata,?,Q106518341;Q16510950,relation+way
+"Rue François-Joseph Talma",wikidata,?,Q20681549;Q393983,relation+way
+"Rue Pitre Chevalier",wikidata,?,Q20682730;Q3383385,relation+way
+"Allée Adélaïde Hautval",wikidata,F,Q380374,way
+"Allée Adrienne Bolland",wikidata,F,Q377410,way
+"Allée Andrée Putman",wikidata,F,Q448596,relation
+"Allée Angélique Le Boursier du Coudray",wikidata,F,Q2849879,way
+"Allée Anne Marie Imbrecq",wikidata,F,Q23289298,way
+"Allée Assia Djebar",wikidata,F,Q157313,relation
+"Allée Barbara",wikidata,F,Q1804,relation
+"Allée Benoîte Groult",wikidata,F,Q273035,relation
+"Allée Charlotte Delbo",wikidata,F,Q452272,way
+"Allée Élisabeth Boselli",wikidata,F,Q3587852,way
+"Allée Elsa Triolet",wikidata,F,Q4137,way
+"Allée Françoise Mayeur",wikidata,F,Q3086551,way
+"Allée Frida Kahlo",wikidata,F,Q5588,relation
+"Allée Germaine De Staël",wikidata,F,Q123041,relation
+"Allée Helen Keller",wikidata,F,Q38203,way
+"Allée Hélène de Chapottin",wikidata,F,Q2531035,way
+"Allée Hubertine Auclert",wikidata,F,Q448953,way
+"Allée Janaki Ammal",wikidata,F,Q4794782,way
+"Allée Jeanne Bohec",wikidata,F,Q3175990,way
+"Allée Jeanne Sivadon",wikidata,F,Q3161894,way
+"Allée Jeannette Colombel",wikidata,F,Q3176258,way
+"Allée Louise Bourgeois",wikidata,F,Q159409,way
+"Allée Madeleine Barot",wikidata,F,Q510687,way
+"Allée Madeleine Brès",wikidata,F,Q3275603,way
+"Allée Marie Heurtin",wikidata,F,Q3292571,way
+"Allée Marie Pape-Carpantier",wikidata,F,Q3292726,way
+"Allée Marie-Louise Dubreil-Jacotin",wikidata,F,Q3292060,way
+"Allée Marthe Gauthier",wikidata,F,Q121734946,relation+way
+"Allée Maryse Hilsz",wikidata,F,Q3296334,way
+"Allée Maud Mannoni",wikidata,F,Q458676,relation
+"Allée Miriam Makeba",wikidata,F,Q146256,relation
+"Allée Nicole Girard Mangin",wikidata,F,Q16222574,relation+way
+"Allée Nicole-Reine Lepaute",wikidata,F,Q266049,way
+"Allée Niki de Saint-Phalle",wikidata,F,Q168704,way
+"Allée Pauline-Isabelle Utile",wikidata,F,Q110620703,relation
+"Allée Rosalind Franklin",wikidata,F,Q7474,way
+"Allée Rose Valland",wikidata,F,Q222961,way
+"Allée Sonia Delaunay",wikidata,F,Q232972,way
+"Allée Susan Brownell Anthony",wikidata,F,Q192245,relation
+"Allée de la Reine Margot",wikidata,F,Q220845,relation
+"Avenue Berthe Morisot",wikidata,F,Q105320,way
+"Avenue Claude Kogan",wikidata,F,Q15106778,relation
+"Avenue Héloïse",wikidata,F,Q5656,relation
+"Avenue Jeanne Jugan",wikidata,F,Q261010,relation
+"Avenue Juliette Adam",wikidata,F,Q270617,way
+"Avenue Lily Pons",wikidata,F,Q242387,relation
+"Avenue Sarah Bernhardt",wikidata,F,Q4605,relation
+"Boulevard Simone Veil",wikidata,F,Q298180,way
+"Impasse Maryse Bastié",wikidata,F,Q18410,relation
+"Impasse Sainte-Pélagie",wikidata,F,Q264502,relation
+"Impasse Thérèse Bertrand-Fontaine",wikidata,F,Q3527333,way
+"Place Dulcie September",wikidata,F,Q275251,relation
+"Place Eileen Gray",wikidata,F,Q438129,relation
+"Place Geneviève de Gaulle-Anthonioz",wikidata,F,Q275274,way
+"Place Jeanne Villepreux Power",wikidata,F,Q29571,way
+"Place Rosa Parks",wikidata,F,Q41921,relation+way
+"Place Sainte-Élisabeth",wikidata,F,Q235849,relation+way
+"Place Sophie Trébuchet",wikidata,F,Q3491058,relation
+"Place de la Duchesse Anne",wikidata,F,Q201143,relation+way
+"Pont Anne de Bretagne",wikidata,F,Q201143,way
+"Quai de la Fosse",wikidata,F,Q201143,relation+way
+"Rue Andrée Chédid",wikidata,F,Q465721,relation
+"Rue Anita Conti",wikidata,F,Q2850173,relation
+"Rue Anna Marly",wikidata,F,Q464853,way
+"Rue Anne Claude Godeau",wikidata,F,Q30738413,relation
+"Rue Anne Mandeville",wikidata,F,Q21543381,relation
+"Rue Barbara",wikidata,F,Q1804,relation
+"Rue Camille Muffat",wikidata,F,Q137579,way
+"Rue Caroline Herschel",wikidata,F,Q76948,way
+"Rue Cécile Brunschvicg",wikidata,F,Q3009715,relation
+"Rue Clémence Royer",wikidata,F,Q2368918,relation
+"Rue Colette",wikidata,F,Q218679,relation
+"Rue Colette Audry",wikidata,F,Q52249,relation
+"Rue Colette Besson",wikidata,F,Q233488,way
+"Rue Colette Magny",wikidata,F,Q2507326,way
+"Rue Deshoulières",wikidata,F,Q469957,relation
+"Rue Diane Fossey",wikidata,F,Q234224,relation
+"Rue Docteur Pouzin Malègue",wikidata,F,Q15407305,relation
+"Rue Dudrézène",wikidata,F,Q18747185,relation
+"Rue Émilienne Leroux",wikidata,F,Q71886196,relation
+"Rue Eugénie Cotton",wikidata,F,Q433768,relation
+"Rue Françoise Giroud",wikidata,F,Q386438,relation+way
+"Rue George Sand",wikidata,F,Q3816,relation
+"Rue Germaine Tillion",wikidata,F,Q271991,relation
+"Rue Gisèle Giraudeau",wikidata,F,Q118287645,relation
+"Rue Hélène Boucher",wikidata,F,Q300903,relation
+"Rue Jeanne Deroin",wikidata,F,Q2607147,relation
+"Rue Jeanne d'Arc",wikidata,F,Q7226,relation
+"Rue Jeanne la Corsaire",wikidata,F,Q890589,relation
+"Rue Josette Bocq",wikidata,F,Q72041440,relation
+"Rue Karen Blixen",wikidata,F,Q182804,relation
+"Rue Louise Antonini",wikidata,F,Q28173705,relation
+"Rue Louise Michel",wikidata,F,Q216092,relation
+"Rue Louise Weiss",wikidata,F,Q274163,relation
+"Rue Lucretia Mott",wikidata,F,Q267107,way
+"Rue Madame de Stolz",wikidata,F,Q3275360,way
+"Rue Madeleine Pauliac",wikidata,F,Q22917341,way
+"Rue Marguerite Duras",wikidata,F,Q153248,relation
+"Rue Marguerite Le Meignen",wikidata,F,Q113100424,relation
+"Rue Marguerite Thibert",wikidata,F,Q3290739,relation
+"Rue Marguerite Yourcenar",wikidata,F,Q163118,relation
+"Rue Marie Marvingt",wikidata,F,Q469752,relation
+"Rue Marie-Angélique Duchemin",wikidata,F,Q3292353,way
+"Rue Marie-Anne du Boccage",wikidata,F,Q2850913,relation
+"Rue Marie-Claude Vaillant-Couturier",wikidata,F,Q274267,relation
+"Rue Marie-Thérèse Eyquem",wikidata,F,Q3292257,relation
+"Rue Martine Carol",wikidata,F,Q241222,relation
+"Rue Maya Angelou",wikidata,F,Q19526,way
+"Rue Monique Antoine-Timsit",wikidata,F,Q19689950,way
+"Rue Nathalie Lemel",wikidata,F,Q2706181,way
+"Rue Nathalie Sarraute",wikidata,F,Q297758,relation+way
+"Rue Nina Simone",wikidata,F,Q174957,way
+"Rue Olympe de Gouges",wikidata,F,Q206972,relation
+"Rue Oum Kalthoum",wikidata,F,Q1110560,way
+"Rue Philomène Cadoret",wikidata,F,Q3381177,way
+"Rue Raymonde Guérif",wikidata,F,Q132192341,relation
+"Rue Reine Astrid",wikidata,F,Q230238,relation
+"Rue Rose Dieng-Kuntz",wikidata,F,Q3442370,way
+"Rue Rosine Crémieux",wikidata,F,Q112436261,way
+"Rue Ruth First",wikidata,F,Q454997,relation
+"Rue Simone Iff",wikidata,F,Q18707098,way
+"Rue Simone Le Moigne",wikidata,F,Q3484582,way
+"Rue Simone de Beauvoir",wikidata,F,Q7197,way
+"Rue Sœur Emmanuelle",wikidata,F,Q239873,way
+"Rue Sophie Germain",wikidata,F,Q7103,way
+"Rue Suzanne Lacore",wikidata,F,Q3505985,way
+"Rue Suzanne Lenglen",wikidata,F,Q232831,relation
+"Rue Thérèse Clerc",wikidata,F,Q22810318,way
+"Rue Viviane Forrester",wikidata,F,Q444866,relation+way
+"Ruelle Aino Aalto",wikidata,F,Q273511,relation
+"Ruelle Alice Constance Austin",wikidata,F,Q2836558,relation
+"Ruelle Lilla Hansen",wikidata,F,Q3240871,relation
+"Ruelle Lilly Reich",wikidata,F,Q64648,relation
+"Ruelle Ray Eames",wikidata,F,Q380404,relation
+"Square Virginia Woolf",wikidata,F,Q40909,relation+way
+"Venelle Alexandra David-Néel",wikidata,F,Q230456,relation
+"Venelle Florence Yoch",wikidata,F,Q2397185,relation
+"Venelle Françoise d'Eaubonne",wikidata,F,Q295009,relation
+"Venelle Gertrude Jekyll",wikidata,F,Q452354,relation
+"Venelle Jean-Baptiste Fletcher",wikidata,F,Q3170483,relation
+"Venelle Jeanne Barret",wikidata,F,Q437168,way
+"Venelle Lina Bo Bardi",wikidata,F,Q272400,relation
+"Venelle Nelly Sachs",wikidata,F,Q57074,relation
+"Venelle Wangari Muta Maathai",wikidata,F,Q46795,relation
+"Allée Alain Gerbault",wikidata,M,Q2139295,relation
+"Allée Baco",wikidata,M,Q3426249,relation
+"Allée Baltard",wikidata,M,Q497177,relation
+"Allée Brancas",wikidata,M,Q3263400,relation
+"Allée Cassard",wikidata,M,Q1677938,relation
+"Allée Commandant Charcot",wikidata,M,Q463531,relation
+"Allée Duguay Trouin",wikidata,M,Q552766,relation
+"Allée Duquesne",wikidata,M,Q329966,relation
+"Allée Edouard et Raymond Hervé",wikidata,M,Q106683870;Q132192400,relation
+"Allée Éloi Tassin",wikidata,M,Q3588048,relation
+"Allée Flesselles",wikidata,M,Q1251239,relation
+"Allée Goya",wikidata,M,Q5432,relation
+"Allée Henri Chrétien",wikidata,M,Q948265,relation
+"Allée Hugo de Vries",wikidata,M,Q160192,relation
+"Allée Jacques Becker",wikidata,M,Q55381,relation
+"Allée Jacques Berque",wikidata,M,Q1392531,relation
+"Allée Jean Bart",wikidata,M,Q333388,relation
+"Allée Jean-Baptiste Fourier",wikidata,M,Q8772,relation
+"Allée Michel Croz",wikidata,M,Q1167038,relation
+"Allée Murillo",wikidata,M,Q192062,relation
+"Allée Paul le Drogo",wikidata,M,Q1112275,relation
+"Allée Penthièvre",wikidata,M,Q696039,relation
+"Allée Pierre Bruegel",wikidata,M,Q43270,relation
+"Allée Pierre de Fermat",wikidata,M,Q75655,relation
+"Allée Professeur Jules Poumier",wikidata,M,Q130323808,relation
+"Allée Roland de Lassus",wikidata,M,Q154792,relation+way
+"Allée Samuel Paty",wikidata,M,Q100451506,way
+"Allée Théodore Monod",wikidata,M,Q956408,way
+"Allée Titus Brandsma",wikidata,M,Q454645,way
+"Allée Vélasquez",wikidata,M,Q297,relation
+"Avenue Abel Gance",wikidata,M,Q313572,relation
+"Avenue Agrippa d'Aubigné",wikidata,M,Q334950,relation
+"Avenue Alfred Bredeloux",wikidata,M,Q130348268,relation
+"Avenue Alphonse Allais",wikidata,M,Q371905,relation
+"Avenue Ambroise Croizat",wikidata,M,Q17451872,relation
+"Avenue Armand Bouvier",wikidata,M,Q50356544,relation
+"Avenue Arthur Benoit",wikidata,M,Q48640027,relation
+"Avenue Augustin-Louis Cauchy",wikidata,M,Q8814,relation
+"Avenue Boris Vian",wikidata,M,Q7833,relation
+"Avenue Bourgault-Ducoudray",wikidata,M,Q1597407,relation
+"Avenue Camille Guérin",wikidata,M,Q1029190,relation
+"Avenue Carnot",wikidata,M,Q215778;Q310767,relation
+"Avenue Cervantès",wikidata,M,Q5682,relation
+"Avenue Chanzy",wikidata,M,Q239760,relation
+"Avenue Charles Pavid",wikidata,M,Q130318560,relation
+"Avenue Charlie Chaplin",wikidata,M,Q882,relation
+"Avenue Christian Doppler",wikidata,M,Q84284,relation
+"Avenue Claude Debussy",wikidata,M,Q4700,relation
+"Avenue Courteline",wikidata,M,Q51107,relation
+"Avenue Docteur Touaille",wikidata,M,Q130451085,relation
+"Avenue Émile Bardoult",wikidata,M,Q130349122,relation
+"Avenue Émile Boissier",wikidata,M,Q3588364,relation
+"Avenue Ernest Hemingway",wikidata,M,Q23434,relation
+"Avenue Eugène Le Parc",wikidata,M,Q133810044,relation
+"Avenue Eugène Sue",wikidata,M,Q315220,relation
+"Avenue Fausto Coppi",wikidata,M,Q219912,relation
+"Avenue François Broussais",wikidata,M,Q1450952,relation+way
+"Avenue François Mansart",wikidata,M,Q313701,relation
+"Avenue Gandhi",wikidata,M,Q1001,relation
+"Avenue Gaston Bonnier",wikidata,M,Q724379,relation+way
+"Avenue Georges Brassens",wikidata,M,Q449,relation
+"Avenue Georges Simenon",wikidata,M,Q128790,relation
+"Avenue Gérard Philipe",wikidata,M,Q150662,relation
+"Avenue Gérard Saint",wikidata,M,Q525537,relation
+"Avenue Guy de Larigaudie",wikidata,M,Q3122266,relation
+"Avenue Henry de Montherlant",wikidata,M,Q379956,relation
+"Avenue Jacques Brel",wikidata,M,Q1666,relation
+"Avenue Jacques Prévert",wikidata,M,Q165274,relation
+"Avenue Jacques Tati",wikidata,M,Q51549,relation
+"Avenue Jean Cocteau",wikidata,M,Q83158,relation
+"Avenue Jean Gabin",wikidata,M,Q23842,relation
+"Avenue Jean Giono",wikidata,M,Q177411,relation
+"Avenue Jean Vigo",wikidata,M,Q55395,relation
+"Avenue José Maria de Hérédia",wikidata,M,Q334970,relation
+"Avenue Jules Védrines",wikidata,M,Q3188966,relation
+"Avenue Laurent Bonnevay",wikidata,M,Q3219051,relation
+"Avenue Lieutenant Coiffard",wikidata,M,Q922183,relation
+"Avenue Louis Vasseur",wikidata,M,Q16222668,relation
+"Avenue Louis Vuillemin",wikidata,M,Q3263302,relation
+"Avenue Marcel Cerdan",wikidata,M,Q347201,relation
+"Avenue Maréchal Ney",wikidata,M,Q40756,relation
+"Avenue Masséna",wikidata,M,Q242609,way
+"Avenue Maurice Ravel",wikidata,M,Q1178,relation
+"Avenue Michel Ange",wikidata,M,Q5592,relation
+"Avenue Modigliani",wikidata,M,Q120993,relation
+"Avenue Mozart",wikidata,M,Q254,relation
+"Avenue Nungesser",wikidata,M,Q918462,relation
+"Avenue Paul Cézanne",wikidata,M,Q35548,relation
+"Avenue Paul Eudel",wikidata,M,Q3371177,relation
+"Avenue Père de Foucauld",wikidata,M,Q51880,relation
+"Avenue Philippe Quinault",wikidata,M,Q379947,relation
+"Avenue Raymond Corbineau",wikidata,M,Q123550580,relation
+"Avenue Raymond Javel",wikidata,M,Q125142779,relation
+"Avenue Rémy Belleau",wikidata,M,Q561709,relation
+"Avenue René Bazin",wikidata,M,Q127539,relation
+"Avenue René Jalais",wikidata,M,Q125143327,relation
+"Avenue Roland Garros",wikidata,M,Q207709,relation
+"Avenue Sergent Bobillot",wikidata,M,Q26270191,relation
+"Avenue Socrate",wikidata,M,Q913,relation
+"Avenue Théodore Botrel",wikidata,M,Q2773178,relation
+"Avenue Victor Hugo",wikidata,M,Q535,way
+"Avenue Yves Even",wikidata,M,Q121033331,relation
+"Avenue des Frères Bauquin",wikidata,M,Q136396362,relation
+"Avenue du Docteur Schweitzer",wikidata,M,Q49325,relation
+"Boulevard Adolphe Billault",wikidata,M,Q505189,relation
+"Boulevard Albert Einstein",wikidata,M,Q937,relation+way
+"Boulevard Albert Thomas",wikidata,M,Q2025679,relation
+"Boulevard Alexander Flemming",wikidata,M,Q37064,way
+"Boulevard Alexandre Millerand",wikidata,M,Q274540,relation
+"Boulevard Alexis Carrel",wikidata,M,Q185777,way
+"Boulevard Amiral Courbet",wikidata,M,Q482156,relation
+"Boulevard Auguste Pageot",wikidata,M,Q2871346,relation+way
+"Boulevard Auguste Péneau",wikidata,M,Q125143432,relation
+"Boulevard Babin-Chevaye",wikidata,M,Q3262670,relation+way
+"Boulevard Benoît Frachon",wikidata,M,Q2896527,way
+"Boulevard Bénoni Goullin",wikidata,M,Q50328249,relation+way
+"Boulevard Boulay Paty",wikidata,M,Q3592730,relation+way
+"Boulevard Charles Gautier",wikidata,M,Q2959183,relation+way
+"Boulevard Clovis Constant",wikidata,M,Q2979743,relation
+"Boulevard Émile Gabory",wikidata,M,Q3588522,relation+way
+"Boulevard Émile Romanet",wikidata,M,Q3588725,relation
+"Boulevard Ernest Dalby",wikidata,M,Q117833067,relation+way
+"Boulevard Eugène Orieux",wikidata,M,Q99691845,relation
+"Boulevard François Blancho",wikidata,M,Q3083995,relation
+"Boulevard Gabriel Guist'Hau",wikidata,M,Q2404053,relation
+"Boulevard Gabriel Lauriol",wikidata,M,Q50328253,relation+way
+"Boulevard Gaston Doumergue",wikidata,M,Q296064,relation
+"Boulevard Général Pierre Koenig",wikidata,M,Q433116,relation
+"Boulevard Georges Pompidou",wikidata,M,Q2185,relation+way
+"Boulevard Henri Becquerel",wikidata,M,Q41269,way
+"Boulevard Henri Dunant",wikidata,M,Q12091,relation+way
+"Boulevard Henry Orrion",wikidata,M,Q3132985,relation
+"Boulevard Jean Ingres",wikidata,M,Q23380,relation
+"Boulevard Jean Monnet",wikidata,M,Q159700,relation+way
+"Boulevard Jean Moulin",wikidata,M,Q632,relation+way
+"Boulevard Jean XXIII",wikidata,M,Q23873,relation
+"Boulevard Jules Verne",wikidata,M,Q33977,relation+way
+"Boulevard Lelasseur",wikidata,M,Q100274253,relation+way
+"Boulevard Léon Bureau",wikidata,M,Q8318010,relation
+"Boulevard Léon Jouhaux",wikidata,M,Q155415,relation+way
+"Boulevard Louis Barthou",wikidata,M,Q271887,relation
+"Boulevard Martin Luther King",wikidata,M,Q8027,relation+way
+"Boulevard Michelet",wikidata,M,Q310791,relation+way
+"Boulevard Nicéphore Niépce",wikidata,M,Q188342,relation+way
+"Boulevard Pasteur",wikidata,M,Q529,relation
+"Boulevard Paul Langevin",wikidata,M,Q25320,relation
+"Boulevard Pierre de Coubertin",wikidata,M,Q82984,relation+way
+"Boulevard René Cassin",wikidata,M,Q232873,relation
+"Boulevard René Coty",wikidata,M,Q158768,relation
+"Boulevard Van Iseghem",wikidata,M,Q102109179,relation+way
+"Boulevard Victor Hugo",wikidata,M,Q535,relation+way
+"Boulevard Winston Churchill",wikidata,M,Q8016,relation+way
+"Boulevard des Professeurs Sourdille",wikidata,M,Q102213426;Q66022708,relation
+"Boulevard du Général de Gaulle",wikidata,M,Q2042,relation+way
+"Boulevard le Lasseur",wikidata,M,Q100274253,way
+"Cour Foucault",wikidata,M,Q44272,way
+"Cour Jules Dupré",wikidata,M,Q959212,relation
+"Cour Jules Durand",wikidata,M,Q3188565,relation+way
+"Cours Antonio Vivaldi",wikidata,M,Q1340,relation
+"Cours Commandant-d'Estienne-d'Orves",wikidata,M,Q471460,relation+way
+"Cours Franklin Roosevelt",wikidata,M,Q8007,way
+"Cours John Kennedy",wikidata,M,Q9696,way
+"Cours Olivier de Clisson",wikidata,M,Q727658,relation+way
+"Cours Saint-André",wikidata,M,Q43399,relation
+"Cours Saint-Pierre",wikidata,M,Q33923,way
+"Esplanade Camille Mellinet",wikidata,M,Q2935012,way
+"Esplanade Édouard Glissant",wikidata,M,Q274319,way
+"Esplanade Jean Bruneau",wikidata,M,Q15973976,relation
+"Esplanade Pierre Semard",wikidata,M,Q3386979,relation
+"Impasse Colonel Desgrées du Lou",wikidata,M,Q112914922,way
+"Impasse Crucy",wikidata,M,Q3299027,way
+"Impasse Émile Cossé",wikidata,M,Q16685211,relation
+"Impasse Émile Zola",wikidata,M,Q504,relation
+"Impasse Erik Satie",wikidata,M,Q187192,relation
+"Impasse Henri Cliquet-Pleyel",wikidata,M,Q3130847,relation
+"Impasse Henri Dunant",wikidata,M,Q12091,relation
+"Impasse Joseph Peignon",wikidata,M,Q130525792,relation
+"Impasse Marmontel",wikidata,M,Q379923,relation
+"Impasse Paul-Émile Victor",wikidata,M,Q1307585,relation
+"Impasse René Char",wikidata,M,Q315015,relation
+"Impasse Sully",wikidata,M,Q379953,way
+"Impasse Vignolle",wikidata,M,Q297565,relation
+"Impasse Xavier Grall",wikidata,M,Q964869,relation
+"Mail Haroun Tazieff",wikidata,M,Q363379,relation+way
+"Mail Picasso",wikidata,M,Q5593,way
+"Passage Alvar Aalto",wikidata,M,Q82840,relation
+"Passage Graslin",wikidata,M,Q3166480,way
+"Passage Jean-Pierre Kernéis",wikidata,M,Q28843711,way
+"Passage Louis Lévesque",wikidata,M,Q3260597,relation
+"Passage Schœlcher",wikidata,M,Q120417,way
+"Passerelle Victor Schœlcher",wikidata,M,Q120417,way
+"Périphérique Extérieur",wikidata,M,Q231402;Q37064,way
+"Périphérique Intérieur",wikidata,M,Q231402;Q37064,way
+"Petite Rue Danton",wikidata,M,Q184623,relation
+"Place Albert Camus",wikidata,M,Q34670,relation+way
+"Place Alexandre Vincent",wikidata,M,Q50358260,relation+way
+"Place Alfred Lallié",wikidata,M,Q2835242,relation+way
+"Place Aristide Briand",wikidata,M,Q179888;Q186652,relation
+"Place Armand Fallières",wikidata,M,Q296673,relation
+"Place Beaumanoir",wikidata,M,Q2379913,relation+way
+"Place Canclaux",wikidata,M,Q1421530,relation+way
+"Place Catinat",wikidata,M,Q315308,relation+way
+"Place Charles Le Roux",wikidata,M,Q1237940,relation
+"Place Charles Lechat",wikidata,M,Q3189309,relation
+"Place Charles-Leroux",wikidata,M,Q1237940,way
+"Place Chateaubriand",wikidata,M,Q49767,relation
+"Place Commandant Jean l'Herminier",wikidata,M,Q3172913,way
+"Place Don Bosco",wikidata,M,Q146183,relation
+"Place Dumoustier",wikidata,M,Q3384858,relation+way
+"Place Édouard Normand",wikidata,M,Q3579975,relation
+"Place Émile Zola",wikidata,M,Q504,relation
+"Place Eugène Livet",wikidata,M,Q3060001,relation+way
+"Place Félix Fournier",wikidata,M,Q3092439,relation+way
+"Place François Dollier de Casson",wikidata,M,Q1751145,relation+way
+"Place François II",wikidata,M,Q132548,relation
+"Place Général-Sarrail",wikidata,M,Q176522,way
+"Place George Washington",wikidata,M,Q23,relation
+"Place Graslin",wikidata,M,Q3166480,relation
+"Place Henry Rey",wikidata,M,Q3131902,relation
+"Place Jacques Patissou",wikidata,M,Q21694722,relation
+"Place Jean Macé",wikidata,M,Q3173305,relation
+"Place Jean V",wikidata,M,Q199533;Q454013,relation+way
+"Place Jean-Baptiste Darbefeuille",wikidata,M,Q3163849,relation+way
+"Place Louis Daubenton",wikidata,M,Q546443,relation
+"Place Marc Elder",wikidata,M,Q3107436,relation
+"Place Maréchal Foch",wikidata,M,Q192615,relation
+"Place Montaigne",wikidata,M,Q41568,relation+way
+"Place Newton",wikidata,M,Q935,way
+"Place Paul-Émile Ladmirault",wikidata,M,Q1398314,relation
+"Place Pierre Mendès-France",wikidata,M,Q314265,relation+way
+"Place Raymond Poincaré",wikidata,M,Q191974,relation
+"Place Roger Salengro",wikidata,M,Q1400172,relation
+"Place Saint-Félix",wikidata,M,Q3092649,relation+way
+"Place Viarme",wikidata,M,Q3164528,relation+way
+"Place Victor Basch",wikidata,M,Q573584,relation
+"Place Vincent Auriol",wikidata,M,Q158772,relation+way
+"Place Waldeck Rousseau",wikidata,M,Q358452;Q434725;Q358452,relation+way
+"Place du Commandant Cousteau",wikidata,M,Q83233,relation
+"Place du Commandant Jean l'Herminier",wikidata,M,Q3172913,relation
+"Place du Général Sarrail",wikidata,M,Q176522,way
+"Place du Lieutenant Jéhenne",wikidata,M,Q111835573,relation+way
+"Pont Aristide Briand",wikidata,M,Q179888,way
+"Pont Éric Tabarly",wikidata,M,Q288394,way
+"Pont Général Audibert",wikidata,M,Q3260285,way
+"Pont Georges Clemenceau",wikidata,M,Q171730,way
+"Pont Haudaudine",wikidata,M,Q3385440,way
+"Pont Le Nain",wikidata,M,Q736207,way
+"Pont Léopold-Sédar-Senghor",wikidata,M,Q154545,way
+"Pont Willy Brandt",wikidata,M,Q2514,way
+"Pont Willy-Brandt",wikidata,M,Q2514,way
+"Promenade José Arribas",wikidata,M,Q332222,way
+"Quai André Morice",wikidata,M,Q2848330,way
+"Quai André Rhuys",wikidata,M,Q114141048,relation+way
+"Quai Ceineray",wikidata,M,Q3163933,relation+way
+"Quai Dumont d'Urville",wikidata,M,Q204735,relation+way
+"Quai Ernest Renaud",wikidata,M,Q21512009,relation
+"Quai Ferdinand Favre",wikidata,M,Q3068557,relation
+"Quai Fernand-Crouan",wikidata,M,Q3069096,way
+"Quai François Mitterrand",wikidata,M,Q2038,relation
+"Quai Henri Barbusse",wikidata,M,Q18404,relation
+"Quai Hoche",wikidata,M,Q367042,relation
+"Quai Magellan",wikidata,M,Q1496,relation+way
+"Quai Moncousu",wikidata,M,Q7192059,relation+way
+"Quai Turenne",wikidata,M,Q303216,relation
+"Quai de Tourville",wikidata,M,Q565409,relation
+"Quai du Président Wilson",wikidata,M,Q34296,way
+"Rond-Point Abel Durand",wikidata,M,Q2821501,relation+way
+"Rond-Point Lelasseur",wikidata,M,Q100274253,way
+"Rond-Point du Pont Morand",wikidata,M,Q2227888,way
+"Rue Abbé Boutet",wikidata,M,Q101238666,relation
+"Rue Abbé de l'Épée",wikidata,M,Q860155,relation
+"Rue Adolphe Moitié",wikidata,M,Q2824877,relation
+"Rue Adrien Delavigne",wikidata,M,Q101239368,relation
+"Rue Adrien Langlois",wikidata,M,Q60906058,relation
+"Rue Affre",wikidata,M,Q737359,relation
+"Rue Aimé Barthoulot",wikidata,M,Q101381700,relation+way
+"Rue Alain Barbe Torte",wikidata,M,Q725368,relation
+"Rue Alain Colas",wikidata,M,Q2545301,relation
+"Rue Albert Calmette",wikidata,M,Q437983,relation
+"Rue Albert Londres",wikidata,M,Q1345910,relation
+"Rue Albert de Mun",wikidata,M,Q2475967,way
+"Rue Alcide d'Orbigny",wikidata,M,Q344661,relation
+"Rue Alexandre Dumas",wikidata,M,Q38337,relation+way
+"Rue Alexandre Fourny",wikidata,M,Q2833671,relation
+"Rue Alexandre Gosselin",wikidata,M,Q101422027,relation
+"Rue Alexandre Ribot",wikidata,M,Q358387,relation
+"Rue Alexis Grassin",wikidata,M,Q24205988,relation
+"Rue Alexis Maneyrol",wikidata,M,Q2834582,relation
+"Rue Alfred Kastler",wikidata,M,Q71023,relation
+"Rue Alfred Nobel",wikidata,M,Q23810,relation
+"Rue Alfred Rebelliau",wikidata,M,Q1282339,relation
+"Rue Alfred Riom",wikidata,M,Q2835424,relation
+"Rue Alfred de Musset",wikidata,M,Q179680,relation
+"Rue Alfred de Vigny",wikidata,M,Q309702,relation
+"Rue Alphonse Daudet",wikidata,M,Q228546,relation
+"Rue Alphonse Gautté",wikidata,M,Q110821996,relation
+"Rue Alphonse Karr",wikidata,M,Q186221,relation
+"Rue Alphonse Laveran",wikidata,M,Q189006,relation
+"Rue Ambroise Pierre Audouard",wikidata,M,Q101564467,relation
+"Rue Amédée Ménard",wikidata,M,Q2844687,relation
+"Rue Amédée de la Patellière",wikidata,M,Q5673455,relation
+"Rue Amiral Jean Minot",wikidata,M,Q130348596,relation+way
+"Rue Amiral Ronarc'h",wikidata,M,Q3383682,relation
+"Rue Amiral du Chaffault",wikidata,M,Q3261497,relation
+"Rue Ampère",wikidata,M,Q675,relation
+"Rue Anatole Le Braz",wikidata,M,Q487523,relation
+"Rue Anatole de Monzie",wikidata,M,Q2845619,relation+way
+"Rue André Baugé",wikidata,M,Q2847817,relation
+"Rue André Chénier",wikidata,M,Q295548,relation
+"Rue André Clément",wikidata,M,Q88889009,relation
+"Rue André Gide",wikidata,M,Q47484,relation
+"Rue André Malraux",wikidata,M,Q151164,way
+"Rue André Messager",wikidata,M,Q457645,relation
+"Rue André Tardieu",wikidata,M,Q346648,relation
+"Rue Antoine Français",wikidata,M,Q323926,relation
+"Rue Antoine Jean Gros",wikidata,M,Q216999,relation
+"Rue Antoine Noisette",wikidata,M,Q16193786,relation
+"Rue Antoine Watteau",wikidata,M,Q183221,relation+way
+"Rue Antoine de Saint-Exupéry",wikidata,M,Q2908,relation+way
+"Rue Arégnaudeau",wikidata,M,Q21932165,relation
+"Rue Aristide Hignard",wikidata,M,Q381946,relation
+"Rue Arsène Leloup",wikidata,M,Q2864458,relation
+"Rue Arthur III",wikidata,M,Q454053,relation
+"Rue Arthur Rimbaud",wikidata,M,Q493,relation+way
+"Rue Athénas",wikidata,M,Q29832904,relation
+"Rue Auguste Brizeux",wikidata,M,Q251037,relation
+"Rue Auguste Lepère",wikidata,M,Q2871286,relation
+"Rue Auguste Renoir",wikidata,M,Q39931,relation
+"Rue Auguste Rodin",wikidata,M,Q30755,relation
+"Rue Augustin Fresnel",wikidata,M,Q187241,relation
+"Rue Babonneau",wikidata,M,Q123367631,relation
+"Rue Bacqua",wikidata,M,Q27947802,relation
+"Rue Balen",wikidata,M,Q642071,way
+"Rue Baptiste Marcet",wikidata,M,Q19606625,relation
+"Rue Basile Valentin",wikidata,M,Q810169,relation
+"Rue Bayard",wikidata,M,Q552017,relation
+"Rue Beethoven",wikidata,M,Q255,relation
+"Rue Bellier",wikidata,M,Q101078057,relation
+"Rue Benjamin Delessert",wikidata,M,Q1385980,relation
+"Rue Bernard Roy",wikidata,M,Q101079236,relation
+"Rue Bernard de Ventadour",wikidata,M,Q4501,relation
+"Rue Berthelot",wikidata,M,Q18425,relation
+"Rue Bertrand Geslin",wikidata,M,Q3163878,relation
+"Rue Bisson",wikidata,M,Q3579742;Q3136088,relation
+"Rue Blaise Cendrars",wikidata,M,Q123080,relation
+"Rue Blaise Pascal",wikidata,M,Q1290,relation
+"Rue Blanqui",wikidata,M,Q309722,relation
+"Rue Boileau",wikidata,M,Q188857,relation
+"Rue Bonaparte",wikidata,M,Q517,relation
+"Rue Bossuet",wikidata,M,Q294100,relation
+"Rue Bougainville",wikidata,M,Q153911,relation
+"Rue Branly",wikidata,M,Q274251,relation
+"Rue Brindejonc des Moulinais",wikidata,M,Q3288734,relation
+"Rue Buffon",wikidata,M,Q229264,relation
+"Rue Cacault",wikidata,M,Q665350,relation+way
+"Rue Camille Bryen",wikidata,M,Q1646841,relation
+"Rue Camille Desmoulins",wikidata,M,Q249313,relation
+"Rue Camille Flammarion",wikidata,M,Q295524,relation
+"Rue Capitaine André David",wikidata,M,Q104161902,relation
+"Rue Capitaine Corhumel",wikidata,M,Q123436324,relation
+"Rue Capitaine Yves Hervouet",wikidata,M,Q135442386,relation
+"Rue Casimir Périer",wikidata,M,Q315656,relation
+"Rue Cassini",wikidata,M,Q14279,relation
+"Rue Catinat",wikidata,M,Q315308,relation
+"Rue César Franck",wikidata,M,Q50187,relation
+"Rue Chanoine Durville",wikidata,M,Q72035761,relation
+"Rue Chanoine Larose",wikidata,M,Q72032245,relation
+"Rue Chanoine Poupard",wikidata,M,Q104146861,relation
+"Rue Chaptal",wikidata,M,Q708011,relation
+"Rue Charles Bataille",wikidata,M,Q20971324,relation
+"Rue Charles Baudelaire",wikidata,M,Q501,relation
+"Rue Charles Brunellière",wikidata,M,Q2958625,relation+way
+"Rue Charles Caillé",wikidata,M,Q101090357,relation
+"Rue Charles Dullin",wikidata,M,Q455943,relation
+"Rue Charles Gounod",wikidata,M,Q180278,relation
+"Rue Charles Housset",wikidata,M,Q101221569,relation
+"Rue Charles Laisant",wikidata,M,Q25318,relation
+"Rue Charles Le Goffic",wikidata,M,Q2714608,relation
+"Rue Charles Lebourg",wikidata,M,Q2957962,relation
+"Rue Charles Monselet",wikidata,M,Q475526,relation
+"Rue Charles Péguy",wikidata,M,Q334965,relation
+"Rue Charles Perron",wikidata,M,Q2959974,relation
+"Rue Charles Terront",wikidata,M,Q466601,relation+way
+"Rue Charles Viaud",wikidata,M,Q101003728,relation
+"Rue Chateaubriand",wikidata,M,Q49767,relation
+"Rue Chevert",wikidata,M,Q328457,relation
+"Rue Chevreul",wikidata,M,Q271651,relation
+"Rue Christian Pauc",wikidata,M,Q42317891,relation+way
+"Rue Claude Bernard",wikidata,M,Q208230,relation
+"Rue Claude Lorrain",wikidata,M,Q214074,relation+way
+"Rue Claude Monet",wikidata,M,Q296,relation
+"Rue Clément Ader",wikidata,M,Q313078,relation
+"Rue Clément Marot",wikidata,M,Q108926,relation
+"Rue Colbert",wikidata,M,Q188971,relation
+"Rue Colombel",wikidata,M,Q3592731,relation
+"Rue Colonel Boutin",wikidata,M,Q3559447,relation
+"Rue Colonel Desgrées du Lou",wikidata,M,Q112914922,relation+way
+"Rue Commandant Jean Mahé",wikidata,M,Q23999230,relation
+"Rue Condorcet",wikidata,M,Q201477,relation
+"Rue Copernic",wikidata,M,Q619,relation
+"Rue Coquebert de Neuville",wikidata,M,Q72555863,relation
+"Rue Corentin Bourveau",wikidata,M,Q138335673,relation
+"Rue Coustard",wikidata,M,Q3384555,way
+"Rue Coustou",wikidata,M,Q1348290,relation
+"Rue Crébillon",wikidata,M,Q551721,relation
+"Rue Crucy",wikidata,M,Q3299027,relation
+"Rue Cuvier",wikidata,M,Q171969,relation
+"Rue Damrémont",wikidata,M,Q2958241,relation
+"Rue Danton",wikidata,M,Q184623,relation
+"Rue Daubenton",wikidata,M,Q546443,relation
+"Rue Denis Papin",wikidata,M,Q106208,relation
+"Rue Desaix",wikidata,M,Q313196,relation
+"Rue Descartes",wikidata,M,Q9191,relation
+"Rue Désiré Colombe",wikidata,M,Q116058117,relation
+"Rue Deurbroucq",wikidata,M,Q30728339,relation+way
+"Rue Diderot",wikidata,M,Q448,relation
+"Rue Dobrée",wikidata,M,Q16194417,relation
+"Rue Docteur Fernand Lamaze",wikidata,M,Q563493,relation
+"Rue Docteur Rappin",wikidata,M,Q135726599,relation
+"Rue Docteur Zamenhof",wikidata,M,Q11758,relation
+"Rue Dorgère",wikidata,M,Q72318895,relation
+"Rue Dugast Matifeux",wikidata,M,Q2958951,relation
+"Rue Dugommier",wikidata,M,Q723058,relation
+"Rue Dupleix",wikidata,M,Q560071,relation
+"Rue Duvoisin",wikidata,M,Q3164062,relation
+"Rue Écorchard",wikidata,M,Q3167876,relation
+"Rue Edgar Degas",wikidata,M,Q46373,relation
+"Rue Edgar Quinet",wikidata,M,Q551735,relation
+"Rue Édison",wikidata,M,Q8743,relation
+"Rue Edmé Mariotte",wikidata,M,Q319749,relation
+"Rue Edmond Bertreux",wikidata,M,Q3047741,relation
+"Rue Edmond Biré",wikidata,M,Q3047746,relation
+"Rue Edmond Prieur",wikidata,M,Q3047960,relation
+"Rue Edmond Rostand",wikidata,M,Q202749,relation
+"Rue Edmund Hillary",wikidata,M,Q33817,relation
+"Rue Édouard Nignon",wikidata,M,Q7017490,relation
+"Rue Élie Delaunay",wikidata,M,Q745313,relation
+"Rue Émile Borel",wikidata,M,Q154356,relation+way
+"Rue Émile Cheysson",wikidata,M,Q3588411,relation
+"Rue Émile Cossé",wikidata,M,Q16685211,relation
+"Rue Émile Dezaunay",wikidata,M,Q3588459,relation
+"Rue Émile Duployé",wikidata,M,Q113075,relation
+"Rue Émile Gadeceau",wikidata,M,Q21516550,relation
+"Rue Émile Loubet",wikidata,M,Q169502,relation
+"Rue Émile Masson",wikidata,M,Q3079979,relation
+"Rue Émile Pradal",wikidata,M,Q21523174,relation
+"Rue Émile Souvestre",wikidata,M,Q286475,relation
+"Rue Emmanuel Fougerat",wikidata,M,Q3052700,relation
+"Rue Éric Tabarly",wikidata,M,Q288394,relation
+"Rue Ernest Legouvé",wikidata,M,Q1333348,relation
+"Rue Ernest Meissonnier",wikidata,M,Q354786,relation
+"Rue Étienne Coutan",wikidata,M,Q3592120,relation
+"Rue Étienne Destranges",wikidata,M,Q18197549,relation
+"Rue Étienne Dolet",wikidata,M,Q1248100,relation
+"Rue Étienne Étiennez",wikidata,M,Q3136009,relation
+"Rue Étienne Larchey",wikidata,M,Q1870426,relation
+"Rue Eugène Barrault",wikidata,M,Q100744425,relation
+"Rue Eugène Delacroix",wikidata,M,Q33477,relation
+"Rue Eugène Le Roux",wikidata,M,Q1373520;Q3059683,relation
+"Rue Eugène Pergeline",wikidata,M,Q72036653,relation
+"Rue Eugène Thomas",wikidata,M,Q3060189,relation
+"Rue Eugène Varlin",wikidata,M,Q2426660,relation
+"Rue Évariste Luminais",wikidata,M,Q2060248,relation
+"Rue Fabert",wikidata,M,Q330788,relation
+"Rue Faustin Hélie",wikidata,M,Q3067471,way
+"Rue Félibien",wikidata,M,Q518705,relation
+"Rue Félix Éboué",wikidata,M,Q989568,way
+"Rue Félix Faure",wikidata,M,Q296076,relation
+"Rue Félix Ménétrier",wikidata,M,Q18115553,relation
+"Rue Félix Thomas",wikidata,M,Q3092616,relation
+"Rue Fellonneau",wikidata,M,Q3084604,relation
+"Rue Fénelon",wikidata,M,Q310002,relation
+"Rue Ferdinand Buisson",wikidata,M,Q273607,relation
+"Rue Fernand Pelloutier",wikidata,M,Q1383791,relation
+"Rue Fernand Pineau-Chaillou",wikidata,M,Q71741664,relation
+"Rue Ferréol Bolo",wikidata,M,Q116058357,relation
+"Rue Fléchier",wikidata,M,Q1368429,relation
+"Rue Fourcroy",wikidata,M,Q446875,relation
+"Rue Francis Garnier",wikidata,M,Q1441510,relation
+"Rue Francis Jammes",wikidata,M,Q353873,relation
+"Rue Francis Leray",wikidata,M,Q3081550,relation
+"Rue Francis Merlant",wikidata,M,Q3081593,relation
+"Rue Francis Portais",wikidata,M,Q3081642,relation
+"Rue Francis de Pressensé",wikidata,M,Q3081753,relation
+"Rue Francisco Ferrer",wikidata,M,Q354202,relation
+"Rue François Albert",wikidata,M,Q3083780,relation+way
+"Rue François Bonamy",wikidata,M,Q3084027,relation
+"Rue François Coppée",wikidata,M,Q380277,relation
+"Rue François Évellin",wikidata,M,Q3084575,relation
+"Rue François Hennebique",wikidata,M,Q256230,relation
+"Rue François Lizé",wikidata,M,Q71742854,relation
+"Rue François Mauriac",wikidata,M,Q81685,relation
+"Rue François Villon",wikidata,M,Q849,relation
+"Rue Franklin",wikidata,M,Q34969,relation
+"Rue Frédéric Cailliaud",wikidata,M,Q967538,relation
+"Rue Frédéric Kühlmann",wikidata,M,Q381652,relation
+"Rue Frédéric Mistral",wikidata,M,Q42596,relation
+"Rue Frédéric Ozanam",wikidata,M,Q689600,relation
+"Rue Frère Henri",wikidata,M,Q15407387,relation
+"Rue Frère Louis",wikidata,M,Q128210922,relation
+"Rue Fulton",wikidata,M,Q192496,relation
+"Rue Gabriel Fauré",wikidata,M,Q104919,relation
+"Rue Gabriel Goudy",wikidata,M,Q71744453,relation
+"Rue Gabriel Lippmann",wikidata,M,Q133232,relation
+"Rue Gabriel Péri",wikidata,M,Q480164,relation
+"Rue Gabriel Poulain",wikidata,M,Q376307,relation
+"Rue Gaëtan Rondeau",wikidata,M,Q3099930,relation+way
+"Rue Galilée",wikidata,M,Q307,relation
+"Rue Gambetta",wikidata,M,Q295090,relation
+"Rue Garibaldi",wikidata,M,Q539,relation
+"Rue Gaspard Coriolis",wikidata,M,Q202827,relation
+"Rue Gassendi",wikidata,M,Q192315,way
+"Rue Gaston Michel",wikidata,M,Q100869239,relation+way
+"Rue Gaston Turpin",wikidata,M,Q71745559,relation
+"Rue Gay Lussac",wikidata,M,Q153185,relation
+"Rue Général Bedeau",wikidata,M,Q705787,relation
+"Rue Général Botha",wikidata,M,Q159397,relation
+"Rue Général Buat",wikidata,M,Q3047773,relation
+"Rue Général Haxo",wikidata,M,Q3340399,relation
+"Rue Général Lanrézac",wikidata,M,Q725621,relation
+"Rue Général Le Flô",wikidata,M,Q365755,relation
+"Rue Général Leclerc de Hauteclocque",wikidata,M,Q312391,relation
+"Rue Général Margueritte",wikidata,M,Q1235620,relation
+"Rue Général Meusnier",wikidata,M,Q1684673,relation
+"Rue Général Travot",wikidata,M,Q3169796,relation
+"Rue Général de Castelnau",wikidata,M,Q1079578,relation
+"Rue Général de Goyon",wikidata,M,Q2958227,relation
+"Rue Général de Lasalle",wikidata,M,Q604128,relation
+"Rue Général de Sonis",wikidata,M,Q49446,relation
+"Rue Général de Torquat",wikidata,M,Q71747990,relation
+"Rue Général de Wet",wikidata,M,Q547828,relation
+"Rue Geoffroy-Drouet",wikidata,M,Q3101128,relation
+"Rue George Joseph Kamel",wikidata,M,Q552049,relation
+"Rue Georges Bernanos",wikidata,M,Q315072,relation
+"Rue Georges Claude",wikidata,M,Q15144248,relation
+"Rue Georges Clemenceau",wikidata,M,Q171730,relation
+"Rue Georges Durivault",wikidata,M,Q122609773,relation
+"Rue Georges Éveillard",wikidata,M,Q50297753,relation
+"Rue Georges Guynemer",wikidata,M,Q446435,relation
+"Rue Georges Lafont",wikidata,M,Q19629799,relation
+"Rue Georges Leygues",wikidata,M,Q728806,relation
+"Rue Georges Méliès",wikidata,M,Q152272,relation+way
+"Rue Georges Painvin",wikidata,M,Q332250,relation
+"Rue Georges Picot",wikidata,M,Q1313582,relation
+"Rue Georges de La Tour",wikidata,M,Q203371,relation
+"Rue Germain Boffrand",wikidata,M,Q1311013,relation
+"Rue Gilbert Bauduz",wikidata,M,Q138410471,relation
+"Rue Gresset",wikidata,M,Q942163,relation+way
+"Rue Grétry",wikidata,M,Q210962,relation
+"Rue Guépin",wikidata,M,Q2849286,relation
+"Rue Guibourd de Luzinais",wikidata,M,Q3056991,relation
+"Rue Guilbaud",wikidata,M,Q19945078,relation
+"Rue Guillaume Apollinaire",wikidata,M,Q133855,relation
+"Rue Guillaume Grootaers",wikidata,M,Q3119877,relation
+"Rue Guillaume Grou",wikidata,M,Q3119878,relation
+"Rue Guillaume Touchy",wikidata,M,Q101206422,relation
+"Rue Guillet de la Brosse",wikidata,M,Q3059909;Q128573061;Q128572518,relation
+"Rue Gustave Charpentier",wikidata,M,Q311663,relation
+"Rue Gustave Eiffel",wikidata,M,Q20882,relation
+"Rue Gutenberg",wikidata,M,Q8958,relation+way
+"Rue Harry Baur",wikidata,M,Q552063,way
+"Rue Hector Berlioz",wikidata,M,Q1151,relation
+"Rue Hectot",wikidata,M,Q21515629,relation
+"Rue Henri Becquerel",wikidata,M,Q41269,relation
+"Rue Henri Bergson",wikidata,M,Q42156,relation
+"Rue Henri Debray",wikidata,M,Q3130927,relation
+"Rue Henri Giffard",wikidata,M,Q370960,relation
+"Rue Henri Guichard",wikidata,M,Q3131237,relation
+"Rue Henri IV",wikidata,M,Q936976,relation
+"Rue Henri Matisse",wikidata,M,Q5589,relation+way
+"Rue Henri Ottmann",wikidata,M,Q3132990,relation
+"Rue Henri Picherit",wikidata,M,Q138501910,relation
+"Rue Henri Sellier",wikidata,M,Q3131999,relation
+"Rue Henri Théodore Driollet",wikidata,M,Q3130471,relation
+"Rue Henri Vandernotte",wikidata,M,Q71914344,relation
+"Rue Henri-Edmond Fouché",wikidata,M,Q52603467,way
+"Rue Henry Wilfrid Deville",wikidata,M,Q29580411,way
+"Rue Hermann Geiger",wikidata,M,Q185520,relation
+"Rue Hippolyte Durand-Gasselin",wikidata,M,Q60906234,relation
+"Rue Honoré Broutelle",wikidata,M,Q50385203,relation
+"Rue Honoré Daumier",wikidata,M,Q187506,relation
+"Rue Horace Vernet",wikidata,M,Q161145,relation
+"Rue Jacques Callot",wikidata,M,Q460124,relation+way
+"Rue Jacques Cartier",wikidata,M,Q7321,relation
+"Rue Jacques Daguerre",wikidata,M,Q131405,relation+way
+"Rue Jacques Duclos",wikidata,M,Q377790,relation
+"Rue Jacques Feyder",wikidata,M,Q122187,relation
+"Rue James Lloyd",wikidata,M,Q5925802,relation
+"Rue Jean Bouin",wikidata,M,Q718290,relation
+"Rue Jean Chiappe",wikidata,M,Q3171296,relation
+"Rue Jean Debay",wikidata,M,Q3164185,relation
+"Rue Jean Demozay",wikidata,M,Q3171665,relation
+"Rue Jean Émile Laboureur",wikidata,M,Q2682738,relation
+"Rue Jean François Champollion",wikidata,M,Q260,relation
+"Rue Jean Gorin",wikidata,M,Q737882,relation
+"Rue Jean Hilaire Belloc",wikidata,M,Q3166131,relation
+"Rue Jean Jacques Audubon",wikidata,M,Q182882,relation
+"Rue Jean Jaurès",wikidata,M,Q12688,relation+way
+"Rue Jean Julien Lemordant",wikidata,M,Q3166574,relation
+"Rue Jean Mermoz",wikidata,M,Q680897,relation
+"Rue Jean Robic",wikidata,M,Q505211,relation
+"Rue Jean de Crabosse",wikidata,M,Q72040698,relation
+"Rue Jean de la Bruyère",wikidata,M,Q314975,relation+way
+"Rue Jean-Baptiste Barré",wikidata,M,Q3163864,relation
+"Rue Jean-Baptiste Coraboeuf",wikidata,M,Q3170533,relation
+"Rue Jean-Baptiste Corot",wikidata,M,Q148475,relation
+"Rue Jean-Baptiste Delambre",wikidata,M,Q246517,relation
+"Rue Jean-Baptiste Greuze",wikidata,M,Q347139,relation
+"Rue Jean-Baptiste Legeay",wikidata,M,Q3164222,relation
+"Rue Jean-Baptiste Vigier",wikidata,M,Q121359905,relation
+"Rue Jean-Jacques Rousseau",wikidata,M,Q6527,relation
+"Rue Jean-Marc Nattier",wikidata,M,Q277738,relation
+"Rue Jean-Marie de la Mennais",wikidata,M,Q3167875,relation
+"Rue Jean-Simon Voruz",wikidata,M,Q15969439,relation
+"Rue Jenner",wikidata,M,Q40852,relation
+"Rue Joachim du Bellay",wikidata,M,Q18420,relation
+"Rue Joseph Caillé",wikidata,M,Q3184374,relation
+"Rue Joseph Cholet",wikidata,M,Q123385988,relation
+"Rue Joseph Cugnot",wikidata,M,Q210730,relation
+"Rue Joseph Doury",wikidata,M,Q138336189,relation
+"Rue Joseph-Marie Jacquard",wikidata,M,Q310833,relation
+"Rue Jules Bréchoir",wikidata,M,Q72043209,relation
+"Rue Jules Cottin de Melville",wikidata,M,Q60869560,way
+"Rue Jules Ferry",wikidata,M,Q959708,relation
+"Rue Jules Grandjouan",wikidata,M,Q3188630,relation+way
+"Rue Jules Méline",wikidata,M,Q459914,relation
+"Rue Jules Noël",wikidata,M,Q617906,relation+way
+"Rue Jules Piédeleu",wikidata,M,Q136400539,relation
+"Rue Jules Raimu",wikidata,M,Q1394721,relation
+"Rue Jules Siegfried",wikidata,M,Q3188910,relation
+"Rue Jules Simon",wikidata,M,Q548532,relation
+"Rue Jules Vallès",wikidata,M,Q551597,relation
+"Rue Julien Douillard",wikidata,M,Q3189312,relation
+"Rue Julien Grolleau",wikidata,M,Q128575438,relation
+"Rue Julien Lanoë",wikidata,M,Q2372828,relation
+"Rue Julien Videment",wikidata,M,Q115046508,relation
+"Rue Kervégan",wikidata,M,Q2966060,relation
+"Rue Kléber",wikidata,M,Q319302,relation
+"Rue Konrad Adenauer",wikidata,M,Q2492,relation+way
+"Rue Kruger",wikidata,M,Q244407,relation
+"Rue La Motte-Picquet",wikidata,M,Q2446788,relation
+"Rue La Noue Bras de Fer",wikidata,M,Q1451253,relation
+"Rue La Pérouse",wikidata,M,Q294478,relation
+"Rue La Tour d'Auvergne",wikidata,M,Q727653,relation
+"Rue Labouchère",wikidata,M,Q3382848,relation
+"Rue Laënnec",wikidata,M,Q219621,relation
+"Rue Lafayette",wikidata,M,Q186652,relation+way
+"Rue Lamartine",wikidata,M,Q188697,relation
+"Rue Lamoricière",wikidata,M,Q1311465,relation+way
+"Rue Lavoisier",wikidata,M,Q39607,relation
+"Rue Le Huédé",wikidata,M,Q72395137,relation
+"Rue Ledru-Rollin",wikidata,M,Q1382222,relation
+"Rue Leglas-Maurice",wikidata,M,Q72345960,relation
+"Rue Lekain",wikidata,M,Q1372557,relation
+"Rue Lemot",wikidata,M,Q1233320,relation
+"Rue Léon Bérard",wikidata,M,Q716823,relation
+"Rue Léon Blum",wikidata,M,Q18434,relation
+"Rue Léon Jamin",wikidata,M,Q3271073,relation
+"Rue Léon Jost",wikidata,M,Q3271084,relation
+"Rue Léon Maître",wikidata,M,Q3271194,relation+way
+"Rue Léon Say",wikidata,M,Q3271322,relation
+"Rue Léon Serpollet",wikidata,M,Q28559,relation+way
+"Rue Léon et Alphonse Séché",wikidata,M,Q3271338;Q2839972,relation
+"Rue Léopold Cassegrain",wikidata,M,Q3271778,relation+way
+"Rue Lesage",wikidata,M,Q267962,way
+"Rue Lieutenant Sageran",wikidata,M,Q72344599,relation
+"Rue Lieutenant de Sesmaisons",wikidata,M,Q136288501,relation
+"Rue Linné",wikidata,M,Q1043,relation
+"Rue Lionel Terray",wikidata,M,Q713240,relation
+"Rue Littré",wikidata,M,Q286107,relation
+"Rue Lorette de la Refoulais",wikidata,M,Q128210948,relation
+"Rue Louis Blanc",wikidata,M,Q355112,relation
+"Rue Louis Blériot",wikidata,M,Q5396,relation
+"Rue Louis Braille",wikidata,M,Q93182,relation
+"Rue Louis Brisset",wikidata,M,Q1871552,relation
+"Rue Louis David",wikidata,M,Q83155,relation
+"Rue Louis Debierre",wikidata,M,Q1648948,relation
+"Rue Louis Delluc",wikidata,M,Q1091635,relation
+"Rue Louis Feuillade",wikidata,M,Q951835,way
+"Rue Louis Guilloux",wikidata,M,Q862935,relation
+"Rue Louis Jouvet",wikidata,M,Q60801,relation
+"Rue Louis Joxe",wikidata,M,Q822594,relation
+"Rue Louis Lachenal",wikidata,M,Q494583,relation
+"Rue Louis Le Nain",wikidata,M,Q736207,relation
+"Rue Louis Lefeuvre",wikidata,M,Q21014990,relation+way
+"Rue Louis Loucheur",wikidata,M,Q2788498,relation
+"Rue Louis Lumière",wikidata,M,Q1962284,relation
+"Rue Louis Marin",wikidata,M,Q1229977,relation
+"Rue Louis Pergaud",wikidata,M,Q602468,relation
+"Rue Louis Préaubert",wikidata,M,Q138267931,relation
+"Rue Louis Primault",wikidata,M,Q100862149,relation
+"Rue Louis de Broglie",wikidata,M,Q83331,relation
+"Rue Louis et Louise Le Paih",wikidata,M,Q72387514,relation
+"Rue Lucien Bagrin",wikidata,M,Q72388026,relation
+"Rue Lucien Gaudin",wikidata,M,Q27820,relation
+"Rue Magin",wikidata,M,Q72415490,relation
+"Rue Marc Sangnier",wikidata,M,Q1248451,relation
+"Rue Marc Seguin",wikidata,M,Q732114,relation
+"Rue Marc Vaubourgoin",wikidata,M,Q264080,relation+way
+"Rue Marceau",wikidata,M,Q1003655,relation
+"Rue Marcel Hatet",wikidata,M,Q72389218,relation
+"Rue Marcel Paul",wikidata,M,Q877804,relation+way
+"Rue Marcel Planiol",wikidata,M,Q3289298,relation+way
+"Rue Marcel Proust",wikidata,M,Q7199,relation
+"Rue Marcel Schwob",wikidata,M,Q472697,relation
+"Rue Marcel Sembat",wikidata,M,Q2019775,relation
+"Rue Marconi",wikidata,M,Q36488,relation
+"Rue Maréchal Joffre",wikidata,M,Q207958,relation+way
+"Rue Maréchal de Gassion",wikidata,M,Q2345939,relation
+"Rue Maréchal de Lattre de Tassigny",wikidata,M,Q81114,relation
+"Rue Marivaux",wikidata,M,Q49478,relation
+"Rue Marmontel",wikidata,M,Q379923,relation
+"Rue Marquis de Dion",wikidata,M,Q971548,relation
+"Rue Marx Dormoy",wikidata,M,Q255618,relation
+"Rue Massenet",wikidata,M,Q194436,relation
+"Rue Massillon",wikidata,M,Q1381729,relation
+"Rue Mathurin Brissonneau",wikidata,M,Q3299005,relation
+"Rue Maurice Barlier",wikidata,M,Q3300350,relation
+"Rue Maurice Barrès",wikidata,M,Q314957,relation
+"Rue Maurice Chevalier",wikidata,M,Q106001,relation
+"Rue Maurice Daniel",wikidata,M,Q130089531,relation
+"Rue Maurice Duval",wikidata,M,Q28496952,relation
+"Rue Maurice Garin",wikidata,M,Q273842,relation
+"Rue Maurice Tourneur",wikidata,M,Q1523434,relation
+"Rue Maurice Utrillo",wikidata,M,Q108301,relation
+"Rue Max Jacob",wikidata,M,Q156214,relation
+"Rue Max Linder",wikidata,M,Q152764,relation
+"Rue Max Planck",wikidata,M,Q9021,relation
+"Rue Maxime Maufra",wikidata,M,Q1856520,relation
+"Rue Mellier",wikidata,M,Q16186019,relation
+"Rue Menou",wikidata,M,Q1345264,relation
+"Rue Mercœur",wikidata,M,Q592965,relation
+"Rue Meuris",wikidata,M,Q2827989,relation
+"Rue Michel Columb",wikidata,M,Q2275572,relation
+"Rue Michel Le Lou du Breil",wikidata,M,Q17355347,relation
+"Rue Michel Manoll",wikidata,M,Q3310275,relation
+"Rue Mirabeau",wikidata,M,Q218747,relation
+"Rue Molac",wikidata,M,Q114242533,relation
+"Rue Molière",wikidata,M,Q687,relation
+"Rue Monge",wikidata,M,Q206832,relation
+"Rue Montaudouine",wikidata,M,Q30303306,relation
+"Rue Montcalm",wikidata,M,Q453589,relation
+"Rue Monteil",wikidata,M,Q49967,relation+way
+"Rue Montyon",wikidata,M,Q1089021,relation
+"Rue Morand",wikidata,M,Q1443308,relation
+"Rue Morvan Lebesque",wikidata,M,Q927101,relation
+"Rue Mounet Sully",wikidata,M,Q2657745,relation
+"Rue Nicolas Appert",wikidata,M,Q39637,relation
+"Rue Nicolas Lancret",wikidata,M,Q188172,relation
+"Rue Nicolas Poussin",wikidata,M,Q41554,relation
+"Rue Octave Feuillet",wikidata,M,Q1091989,relation
+"Rue Ogée",wikidata,M,Q3164325,relation
+"Rue Parmentier",wikidata,M,Q360312,relation
+"Rue Paul Beaupère",wikidata,M,Q360312;Q50328262,relation
+"Rue Paul Bellamy",wikidata,M,Q3370603,relation+way
+"Rue Paul Bert",wikidata,M,Q735370,relation
+"Rue Paul Claudel",wikidata,M,Q295830,relation+way
+"Rue Paul Decauville",wikidata,M,Q7831026,relation
+"Rue Paul Delaroche",wikidata,M,Q322582,relation
+"Rue Paul Deltombe",wikidata,M,Q3371030,relation
+"Rue Paul Éluard",wikidata,M,Q152176,relation
+"Rue Paul Gauguin",wikidata,M,Q37693,relation
+"Rue Paul Nassivet",wikidata,M,Q26710065,relation
+"Rue Paul Nizan",wikidata,M,Q723621,way
+"Rue Paul Plantiveau",wikidata,M,Q123550488,relation
+"Rue Paul Sabatier",wikidata,M,Q104575,relation
+"Rue Paul Valéry",wikidata,M,Q200639,relation
+"Rue Paul Verlaine",wikidata,M,Q755,relation
+"Rue Philippe Lebon",wikidata,M,Q562604,relation
+"Rue Philippe de Broca",wikidata,M,Q365141,relation
+"Rue Pierre Abélard",wikidata,M,Q4295,relation
+"Rue Pierre Adolphe Bobierre",wikidata,M,Q20155989,relation
+"Rue Pierre Audige",wikidata,M,Q127946994,relation
+"Rue Pierre Benoit",wikidata,M,Q551767,relation
+"Rue Pierre Bouguer",wikidata,M,Q11065,relation
+"Rue Pierre Dupont",wikidata,M,Q2735843,relation
+"Rue Pierre Étienne Flandin",wikidata,M,Q471296,relation
+"Rue Pierre Landais",wikidata,M,Q3385762,relation
+"Rue Pierre Levêque",wikidata,M,Q3386056,way
+"Rue Pierre Loti",wikidata,M,Q311854,relation
+"Rue Pierre Roy",wikidata,M,Q1347013,relation
+"Rue Pierre-Joseph Colin",wikidata,M,Q115281721,relation
+"Rue Piétrus Joubert",wikidata,M,Q469797,relation
+"Rue Piron",wikidata,M,Q983437,relation
+"Rue Préfet Bonnefoy",wikidata,M,Q15973806,relation
+"Rue Prémion",wikidata,M,Q17352238,relation
+"Rue Président Édouard Herriot",wikidata,M,Q274344,relation+way
+"Rue Professeur Jules Poumier",wikidata,M,Q130323808,relation
+"Rue Prosper Coinquet",wikidata,M,Q56525318,relation
+"Rue Prosper Mérimée",wikidata,M,Q160333,relation
+"Rue Rabelais",wikidata,M,Q131018,relation
+"Rue Racine",wikidata,M,Q742,relation
+"Rue Raoul Dufy",wikidata,M,Q45205,relation
+"Rue Raspail",wikidata,M,Q682230,relation
+"Rue Réaumur",wikidata,M,Q310779,relation
+"Rue Régnard",wikidata,M,Q732695,relation
+"Rue René Dumont",wikidata,M,Q927879,relation
+"Rue René Guy Cadou",wikidata,M,Q3426323,relation
+"Rue René Mouchotte",wikidata,M,Q3426652,relation
+"Rue René Peigne",wikidata,M,Q71761550,relation
+"Rue René Pinard",wikidata,M,Q3426741,way
+"Rue René Viviani",wikidata,M,Q431074,relation
+"Rue Robert Le Ricolais",wikidata,M,Q44195274,relation
+"Rue Robert Planquette",wikidata,M,Q1921492,relation
+"Rue Roger Astic",wikidata,M,Q3438658,relation
+"Rue Roger Frison Roche",wikidata,M,Q1393305,relation
+"Rue Roger Lapebie",wikidata,M,Q712285,relation
+"Rue Roland Dorgeles",wikidata,M,Q1393036,relation
+"Rue Romain Rolland",wikidata,M,Q47162,relation
+"Rue Ronsard",wikidata,M,Q49752,relation
+"Rue Rouget de Lisle",wikidata,M,Q207660,relation
+"Rue Saint-Gohard",wikidata,M,Q3109901,relation
+"Rue Saint-Hermeland",wikidata,M,Q3134198,relation
+"Rue Saint-Louis",wikidata,M,Q346,relation
+"Rue Saint-Médard",wikidata,M,Q733308,relation+way
+"Rue Samuel de Champlain",wikidata,M,Q68529,relation
+"Rue Santos-Dumont",wikidata,M,Q313211,relation
+"Rue Sarrazin",wikidata,M,Q1347676,relation
+"Rue Sébastien Vaillant",wikidata,M,Q737706,relation
+"Rue Sénèque",wikidata,M,Q2054,relation
+"Rue Siméon Foucault",wikidata,M,Q3484829,relation
+"Rue Similien",wikidata,M,Q20922194,relation
+"Rue Soubzmain",wikidata,M,Q3379187,relation
+"Rue Stanislas Baudry",wikidata,M,Q3496645,relation+way
+"Rue Stendhal",wikidata,M,Q502,relation
+"Rue Stéphane Leduc",wikidata,M,Q3501905,relation
+"Rue Stéphane Mallarmé",wikidata,M,Q767,relation
+"Rue Stéphenson",wikidata,M,Q133614,relation
+"Rue Sully",wikidata,M,Q379953,relation+way
+"Rue Surcouf",wikidata,M,Q555329,relation
+"Rue Sylvain Pâris",wikidata,M,Q2976836;Q2976836,relation
+"Rue Sylvain Royé",wikidata,M,Q71760435,relation
+"Rue Thomas Narcejac",wikidata,M,Q1686762,relation
+"Rue Thomas Russel Crampton",wikidata,M,Q562579,relation
+"Rue Thurot",wikidata,M,Q1451205,relation
+"Rue Tite-Live",wikidata,M,Q2039,relation
+"Rue Toulmouche",wikidata,M,Q2564226,relation
+"Rue Tournefort",wikidata,M,Q312959,relation
+"Rue Travers",wikidata,M,Q127868316,way
+"Rue Tristan Corbière",wikidata,M,Q316536,relation
+"Rue Urbain Le Verrier",wikidata,M,Q104154,relation
+"Rue Urvoy de Saint-Bedan",wikidata,M,Q8318508,relation
+"Rue Vauban",wikidata,M,Q192839,relation
+"Rue Vaucanson",wikidata,M,Q454589,relation
+"Rue Vauquelin",wikidata,M,Q333438,relation
+"Rue Victor Grignard",wikidata,M,Q104582,relation
+"Rue Victor Schœlcher",wikidata,M,Q120417,relation
+"Rue Vidie",wikidata,M,Q1539469,relation
+"Rue Villars",wikidata,M,Q158654,relation
+"Rue Villebois Mareuil",wikidata,M,Q278875,relation
+"Rue Vincent Scotto",wikidata,M,Q3083168,relation
+"Rue Voltaire",wikidata,M,Q9068,relation+way
+"Rue Yves Bodiguel",wikidata,M,Q3573491,relation
+"Rue Yves du Manoir",wikidata,M,Q2602308,relation
+"Rue d'Aguesseau",wikidata,M,Q1278923,relation
+"Rue d'Argentré",wikidata,M,Q2757322,relation
+"Rue d'Arsonval",wikidata,M,Q547276,relation
+"Rue d'Aurelle de Paladines",wikidata,M,Q567331,relation
+"Rue d'Erlon",wikidata,M,Q921887,relation
+"Rue d'Havelooze",wikidata,M,Q128568960,relation
+"Rue de Belleville",wikidata,M,Q3109715,relation
+"Rue de Belsunce",wikidata,M,Q1605835,relation
+"Rue de Bouillé",wikidata,M,Q123369989;Q123370089,relation
+"Rue de Bréa",wikidata,M,Q3170537,relation
+"Rue de Brosses",wikidata,M,Q106863509,relation
+"Rue de Carcouët",wikidata,M,Q15967070,relation+way
+"Rue de Cornulier",wikidata,M,Q56085762,relation
+"Rue de Courson",wikidata,M,Q123514508,relation
+"Rue de Feltre",wikidata,M,Q3047434,relation+way
+"Rue de Hercé",wikidata,M,Q3165956,relation
+"Rue de Jussieu",wikidata,M,Q432734,relation
+"Rue de Lourmel",wikidata,M,Q3089878,relation
+"Rue de Loynes",wikidata,M,Q2871666,relation
+"Rue de l'Évêque Émilien",wikidata,M,Q3588894,relation
+"Rue de la Barbinais",wikidata,M,Q48975555,relation
+"Rue de la Bourdonnais",wikidata,M,Q828583,relation
+"Rue de la Contrie",wikidata,M,Q1292599,relation
+"Rue de la Galissonnière",wikidata,M,Q1638357,relation
+"Rue des Frères Amieux",wikidata,M,Q60557324;Q101085503,relation
+"Rue des Frères Mano",wikidata,M,Q130349431,relation
+"Rue des Sept Maires Charette",wikidata,M,Q17638067;Q17634361;Q15967072;Q3425991;Q17630933;Q17630643;Q17634358,relation
+"Rue du Bâtonnier Yves Guinaudeau",wikidata,M,Q66615343,relation+way
+"Rue du Breil",wikidata,M,Q17355347,relation
+"Rue du Chanoine Courtonne",wikidata,M,Q97357775,way
+"Rue du Couëdic",wikidata,M,Q2959693,relation
+"Rue du Guesclin",wikidata,M,Q314905,relation
+"Rue du Professeur Yves Boquien",wikidata,M,Q54942455,relation
+"Rue du Recteur Schmitt",wikidata,M,Q71761058,relation
+"Ruelle Blanqui",wikidata,M,Q309722,relation
+"Square Aristide Bergès",wikidata,M,Q665076,relation
+"Square Fleuriot-de-Langle",wikidata,M,Q3371218,way
+"Square Jacques Balmat",wikidata,M,Q982588,relation
+"Square Jean-Claude Demaure",wikidata,M,Q431074,relation
+"Square Julien François Vaudouer",wikidata,M,Q137995718,way
+"Square La Pérouse",wikidata,M,Q294478,relation
+"Square Mathurin Méheut",wikidata,M,Q344806,way
+"Venelle Élisée Reclus",wikidata,M,Q20951,relation
+"Venelle Félix Dujardin",wikidata,M,Q1355541,way
+"Venelle Louis Gallien",wikidata,M,Q3261997,way
+"Allée Claude Cahun",wikidata,NB,Q219634,relation
