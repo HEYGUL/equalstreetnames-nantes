@@ -13,10 +13,8 @@ name,source,gender,wikidata,type
 "Allée Galatée",,,,relation
 "Allée Germaine Dulac",,,,way
 "Allée Helen Suzman",,,,way
-"Allée Hildegarde de Bingen",,,,way
 "Allée Isabelle Eberhardt",,,,way
 "Allée Isadora Duncan",,,,way
-"Allée Jacqueline Beaujeu-Garnier",,,,way
 "Allée Jacqueline Félicie De Almania",,,,relation
 "Allée Jacqueline Maillan",,,,relation
 "Allée Jacqueline de Romilly",,,,relation
@@ -37,7 +35,6 @@ name,source,gender,wikidata,type
 "Allée Marie Paradis",,,,relation+way
 "Allée Marie-Andrée Lagroua Weill-Hallé",,,,relation
 "Allée Marie-Louise Chevrel-Bodin",,,,relation
-"Allée Mariel Jean Brunhes Delamarre",,,,way
 "Allée Marthe Condat",,,,relation
 "Allée Maudy Piot",,,,way
 "Allée Michel Chaillou",,,,relation
@@ -86,7 +83,6 @@ name,source,gender,wikidata,type
 "Allée des Oblates",,,,way
 "Allée des Passiflores",,,,relation
 "Allée des Pensées",,,,relation
-"Allée des Roitelets",,,,relation+way
 "Allée des Romarins",,,,relation
 "Allée des Sœurs de l'Espérance",,,,way
 "Allée des Soupirs",,,,way
@@ -1127,7 +1123,6 @@ L’Océane,,,,way
 "Rue Président Desmars",,,,relation
 "Rue Professeur Dubuisson",,,,relation
 "Rue Professeur Eugène Cornet",,,,relation
-"Rue Rachel Carson",,,,way
 "Rue Rameau",,,,relation
 "Rue Régnier",,,,relation
 "Rue Renan",,,,relation

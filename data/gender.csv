@@ -26,7 +26,7 @@ name,source,gender,wikidata,type
 "Allée de la Martinique",wikidata,-,Q17054,relation
 "Allée de la Nive",wikidata,-,Q974519,relation
 "Allée de la Réunion",wikidata,-,Q17070,relation
-"Allée des Alizés",wikidata,-,Q20680470,relation
+"Allée des Alizés",wikidata,-,Q160603,relation
 "Allée des Cerisiers",wikidata,-,Q2946681,relation
 "Allée des Crocus",wikidata,-,Q157806,relation
 "Allée des Cytises",wikidata,-,Q157226,relation
@@ -41,6 +41,7 @@ name,source,gender,wikidata,type
 "Allée des Nouvelles Hébrides",wikidata,-,Q19399831,way
 "Allée des Peupliers",wikidata,-,Q25356,relation
 "Allée des Pinsons",wikidata,-,Q30241,relation
+"Allée des Roitelets",wikidata,-,Q6473112,relation+way
 "Allée des Tamariniers",wikidata,-,Q80235,relation
 "Allée des Vétivers",wikidata,-,Q1877566,relation
 "Allée du Cher",wikidata,-,Q213503,way
@@ -241,7 +242,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Place Pirmil",wikidata,-,Q16670281,relation+way
 "Place Tirant Lo Blanc",wikidata,-,Q86916823,way
 "Place d'Oradour-sur-Glane",wikidata,-,Q51300191,relation+way
-"Place de Bretagne",wikidata,-,Q327,relation
+"Place de Bretagne",wikidata,-,Q327,relation+way
 "Place de Jacksonville",wikidata,-,Q16568,way
 "Place de Prague",wikidata,-,Q1085,way
 "Place de la Bourse",wikidata,-,Q767657,relation+way
@@ -595,7 +596,9 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Allée Germaine De Staël",wikidata,F,Q123041,relation
 "Allée Helen Keller",wikidata,F,Q38203,way
 "Allée Hélène de Chapottin",wikidata,F,Q2531035,way
+"Allée Hildegarde de Bingen",wikidata,F,Q70991,way
 "Allée Hubertine Auclert",wikidata,F,Q448953,way
+"Allée Jacqueline Beaujeu-Garnier",wikidata,F,Q3157675,way
 "Allée Janaki Ammal",wikidata,F,Q4794782,way
 "Allée Jeanne Bohec",wikidata,F,Q3175990,way
 "Allée Jeanne Sivadon",wikidata,F,Q3161894,way
@@ -606,6 +609,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Allée Marie Heurtin",wikidata,F,Q3292571,way
 "Allée Marie Pape-Carpantier",wikidata,F,Q3292726,way
 "Allée Marie-Louise Dubreil-Jacotin",wikidata,F,Q3292060,way
+"Allée Mariel Jean Brunhes Delamarre",wikidata,F,Q50383947,way
 "Allée Marthe Gauthier",wikidata,F,Q121734946,relation+way
 "Allée Maryse Hilsz",wikidata,F,Q3296334,way
 "Allée Maud Mannoni",wikidata,F,Q458676,relation
@@ -694,6 +698,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue Olympe de Gouges",wikidata,F,Q206972,relation
 "Rue Oum Kalthoum",wikidata,F,Q1110560,way
 "Rue Philomène Cadoret",wikidata,F,Q3381177,way
+"Rue Rachel Carson",wikidata,F,Q100948,way
 "Rue Raymonde Guérif",wikidata,F,Q132192341,relation
 "Rue Reine Astrid",wikidata,F,Q230238,relation
 "Rue Rose Dieng-Kuntz",wikidata,F,Q3442370,way
@@ -1235,7 +1240,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue Garibaldi",wikidata,M,Q539,relation
 "Rue Gaspard Coriolis",wikidata,M,Q202827,relation
 "Rue Gassendi",wikidata,M,Q192315,way
-"Rue Gaston Michel",wikidata,M,Q100869239,relation+way
+"Rue Gaston Michel",wikidata,M,Q100869239,relation
 "Rue Gaston Turpin",wikidata,M,Q71745559,relation
 "Rue Gay Lussac",wikidata,M,Q153185,relation
 "Rue Général Bedeau",wikidata,M,Q705787,relation
@@ -1349,7 +1354,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue Jules Ferry",wikidata,M,Q959708,relation
 "Rue Jules Grandjouan",wikidata,M,Q3188630,relation+way
 "Rue Jules Méline",wikidata,M,Q459914,relation
-"Rue Jules Noël",wikidata,M,Q617906,relation+way
+"Rue Jules Noël",wikidata,M,Q617906,relation
 "Rue Jules Piédeleu",wikidata,M,Q136400539,relation
 "Rue Jules Raimu",wikidata,M,Q1394721,relation
 "Rue Jules Siegfried",wikidata,M,Q3188910,relation
